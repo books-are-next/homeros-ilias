@@ -1,0 +1,693 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ílias",
+    "identifier": "e7ddad47-6280-4201-8b02-52fc967bdb54",
+    "author": "Homéros",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-14T10:17:58.477Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ilias_037.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ÚVOD",
+      "href": "OEBPS/Text/ilias_005.html"
+    },
+    {
+      "title": "ACHILLEŮV HNĚV",
+      "children": [
+        {
+          "title": "ZPĚV I.",
+          "children": [
+            {
+              "title": "Thetis",
+              "href": "OEBPS/Text/ilias_007.html#sigil_toc_id_1"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_007.html"
+        }
+      ],
+      "href": "OEBPS/Text/ilias_006.html"
+    },
+    {
+      "title": "BOJE BEZ ACHILLEA",
+      "children": [
+        {
+          "title": "ZPĚV II.",
+          "children": [
+            {
+              "title": "1. Sen. Zkouška",
+              "href": "OEBPS/Text/ilias_009.html#sigil_toc_id_2"
+            },
+            {
+              "title": "Achaiové chystají se do boje",
+              "href": "OEBPS/Text/ilias_009.html#sigil_toc_id_3"
+            },
+            {
+              "title": "Výčet achajského loďstva",
+              "href": "OEBPS/Text/ilias_009.html#sigil_toc_id_4"
+            },
+            {
+              "title": "Pochod Trójanů. Výčet jejich vojsk",
+              "href": "OEBPS/Text/ilias_009.html#sigil_toc_id_5"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_009.html"
+        },
+        {
+          "title": "ZPĚV III.",
+          "children": [
+            {
+              "title": "2. První den bitevní — nerozhodný Smlouva. Paridův souboj s Meneláem",
+              "href": "OEBPS/Text/ilias_010.html#sigil_toc_id_6"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_010.html"
+        },
+        {
+          "title": "ZPĚV IV.",
+          "children": [
+            {
+              "title": "Porušení smlouvy. — Nové nepřátelství",
+              "href": "OEBPS/Text/ilias_011.html#sigil_toc_id_7"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_011.html"
+        },
+        {
+          "title": "ZPĚV V.",
+          "children": [
+            {
+              "title": "Diomédés",
+              "href": "OEBPS/Text/ilias_012.html#sigil_toc_id_8"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_012.html"
+        },
+        {
+          "title": "ZPĚV VI.",
+          "children": [
+            {
+              "title": "Hektór v Tróji. Andromaché",
+              "href": "OEBPS/Text/ilias_013.html#sigil_toc_id_9"
+            },
+            {
+              "title": "Glaukos a Diomédés",
+              "href": "OEBPS/Text/ilias_013.html#sigil_toc_id_10"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_013.html"
+        },
+        {
+          "title": "ZPĚV VII.",
+          "children": [
+            {
+              "title": "Hektorův souboj s Aiantem",
+              "href": "OEBPS/Text/ilias_014.html#sigil_toc_id_11"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_014.html"
+        },
+        {
+          "title": "ZPĚV VIII.",
+          "children": [
+            {
+              "title": "3. Druhý den bitevní. — Achajci poraženi",
+              "href": "OEBPS/Text/ilias_015.html#sigil_toc_id_12"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_015.html"
+        },
+        {
+          "title": "ZPĚV IX.",
+          "children": [
+            {
+              "title": "Poselství",
+              "href": "OEBPS/Text/ilias_016.html#sigil_toc_id_13"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_016.html"
+        },
+        {
+          "title": "ZPĚV X.",
+          "children": [
+            {
+              "title": "Noční výprava",
+              "href": "OEBPS/Text/ilias_017.html#sigil_toc_id_14"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_017.html"
+        },
+        {
+          "title": "ZPĚV XI.",
+          "children": [
+            {
+              "title": "Třetí den bitevní: Achajci na hlavu poraženi",
+              "href": "OEBPS/Text/ilias_018.html#sigil_toc_id_15"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_018.html"
+        },
+        {
+          "title": "ZPĚV XII.",
+          "children": [
+            {
+              "title": "Boj o zeď",
+              "href": "OEBPS/Text/ilias_019.html#sigil_toc_id_16"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_019.html"
+        },
+        {
+          "title": "ZPĚV XIII.",
+          "children": [
+            {
+              "title": "Nepozornost Diova Poseidón zjednal Achaiům převahu",
+              "href": "OEBPS/Text/ilias_020.html#sigil_toc_id_17"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_020.html"
+        },
+        {
+          "title": "ZPĚV XIV.",
+          "children": [
+            {
+              "title": "Porada vůdcův achajských",
+              "href": "OEBPS/Text/ilias_021.html#sigil_toc_id_18"
+            },
+            {
+              "title": "Zeus usne. Trójané zahnáni",
+              "href": "OEBPS/Text/ilias_021.html#sigil_toc_id_19"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_021.html"
+        },
+        {
+          "title": "ZPĚV XV.",
+          "children": [
+            {
+              "title": "Zeus procitne a zjedná zase Trójanům vítězství Hektór zapaluje achajské lodi",
+              "href": "OEBPS/Text/ilias_022.html#sigil_toc_id_20"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_022.html"
+        },
+        {
+          "title": "ZPĚV XVI.",
+          "children": [
+            {
+              "title": "Patroklos",
+              "href": "OEBPS/Text/ilias_023.html#sigil_toc_id_21"
+            },
+            {
+              "title": "Trójané zapalují achajské loďstvo",
+              "href": "OEBPS/Text/ilias_023.html#sigil_toc_id_22"
+            },
+            {
+              "title": "Sarpédón",
+              "href": "OEBPS/Text/ilias_023.html#sigil_toc_id_23"
+            },
+            {
+              "title": "Patroklova smrt",
+              "href": "OEBPS/Text/ilias_023.html#sigil_toc_id_24"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_023.html"
+        },
+        {
+          "title": "ZPĚV XVII.",
+          "children": [
+            {
+              "title": "Boj o mrtvolu Patroklovu",
+              "href": "OEBPS/Text/ilias_024.html#sigil_toc_id_25"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_024.html"
+        },
+        {
+          "title": "ZPĚV XVIII.",
+          "children": [
+            {
+              "title": "Thetis u Achillea",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_26"
+            },
+            {
+              "title": "Achilleus zachrání mrtvolu Patroklovu",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_27"
+            },
+            {
+              "title": "Sněm Trójanů. Púlydamás",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_28"
+            },
+            {
+              "title": "Nářek nad Patroklem",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_29"
+            },
+            {
+              "title": "Nová zbroj Achilleova",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_30"
+            },
+            {
+              "title": "Štít",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_31"
+            },
+            {
+              "title": "Ostatní zbroj",
+              "href": "OEBPS/Text/ilias_025.html#sigil_toc_id_32"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_025.html"
+        }
+      ],
+      "href": "OEBPS/Text/ilias_008.html"
+    },
+    {
+      "title": "ACHILLEUS V BOJI",
+      "children": [
+        {
+          "title": "ZPĚV XIX.",
+          "children": [
+            {
+              "title": "Achilleus se chystá do boje",
+              "href": "OEBPS/Text/ilias_027.html#sigil_toc_id_33"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_027.html"
+        },
+        {
+          "title": "ZPĚV XX.",
+          "children": [
+            {
+              "title": "Bohové jdou do boje",
+              "href": "OEBPS/Text/ilias_028.html#sigil_toc_id_34"
+            },
+            {
+              "title": "Aineiův souboj s Achilleem",
+              "href": "OEBPS/Text/ilias_028.html#sigil_toc_id_35"
+            },
+            {
+              "title": "Achilleus porazí Trójany na hlavu",
+              "href": "OEBPS/Text/ilias_028.html#sigil_toc_id_36"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_028.html"
+        },
+        {
+          "title": "ZPĚV XXI.",
+          "children": [
+            {
+              "title": "Boj Skamandrův s Achilleem",
+              "href": "OEBPS/Text/ilias_029.html#sigil_toc_id_37"
+            },
+            {
+              "title": "Boj bohů",
+              "href": "OEBPS/Text/ilias_029.html#sigil_toc_id_38"
+            },
+            {
+              "title": "Útěk Trójanů do města. Apollón oklamal Achillea",
+              "href": "OEBPS/Text/ilias_029.html#sigil_toc_id_39"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_029.html"
+        },
+        {
+          "title": "ZPĚV XXII.",
+          "children": [
+            {
+              "title": "Pád Hektorův",
+              "href": "OEBPS/Text/ilias_030.html#sigil_toc_id_40"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_030.html"
+        }
+      ],
+      "href": "OEBPS/Text/ilias_026.html"
+    },
+    {
+      "title": "ZÁVĚR",
+      "children": [
+        {
+          "title": "ZPĚV XXIII.",
+          "children": [
+            {
+              "title": "Patroklův pohřeb",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_41"
+            },
+            {
+              "title": "Hry",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_42"
+            },
+            {
+              "title": "Koňské dostihy",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_43"
+            },
+            {
+              "title": "Pěstní boj",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_44"
+            },
+            {
+              "title": "Zápolení",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_45"
+            },
+            {
+              "title": "Běh",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_46"
+            },
+            {
+              "title": "Zápas kopím",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_47"
+            },
+            {
+              "title": "Házení diskem",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_48"
+            },
+            {
+              "title": "Střelba z luku",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_49"
+            },
+            {
+              "title": "Házení kopím",
+              "href": "OEBPS/Text/ilias_032.html#sigil_toc_id_50"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_032.html"
+        },
+        {
+          "title": "ZPĚV XXIV.",
+          "children": [
+            {
+              "title": "Hektorův výkup a pohřeb",
+              "href": "OEBPS/Text/ilias_033.html#sigil_toc_id_51"
+            }
+          ],
+          "href": "OEBPS/Text/ilias_033.html"
+        }
+      ],
+      "href": "OEBPS/Text/ilias_031.html"
+    },
+    {
+      "title": "PŘEHLED ZPĚVŮ ÍLIADY",
+      "href": "OEBPS/Text/ilias_034.html"
+    },
+    {
+      "title": "SLOVNÍČEK",
+      "children": [
+        {
+          "title": "A",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_52"
+        },
+        {
+          "title": "B",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_53"
+        },
+        {
+          "title": "D",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_54"
+        },
+        {
+          "title": "E",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_55"
+        },
+        {
+          "title": "F",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_56"
+        },
+        {
+          "title": "G",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_57"
+        },
+        {
+          "title": "H",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_58"
+        },
+        {
+          "title": "CH",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_59"
+        },
+        {
+          "title": "I",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_60"
+        },
+        {
+          "title": "J",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_61"
+        },
+        {
+          "title": "K",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_62"
+        },
+        {
+          "title": "L",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_63"
+        },
+        {
+          "title": "M",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_64"
+        },
+        {
+          "title": "N",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_65"
+        },
+        {
+          "title": "O",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_66"
+        },
+        {
+          "title": "P",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_67"
+        },
+        {
+          "title": "R",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_68"
+        },
+        {
+          "title": "S",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_69"
+        },
+        {
+          "title": "T",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_70"
+        },
+        {
+          "title": "U",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_71"
+        },
+        {
+          "title": "X",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_72"
+        },
+        {
+          "title": "Z",
+          "href": "OEBPS/Text/ilias_035.html#sigil_toc_id_73"
+        }
+      ],
+      "href": "OEBPS/Text/ilias_035.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/ilias_036.html"
+    }
+  ]
+}

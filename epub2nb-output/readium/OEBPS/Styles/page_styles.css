@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    panose-1: 2 4 6 2 5 3 5 3 3 4;
+    src: url(../Fonts/Book-Antiqua.ttf);
+    font-family: "Book Antiqua"
+    }
+@font-face {
+    font-style: italic;
+    panose-1: 2 4 5 2 5 3 5 10 3 4;
+    src: url(../Fonts/Book-Antiqua-Italic.ttf);
+    font-family: "Book Antiqua"
+    }
+@font-face {
+    font-weight: bold;
+    panose-1: 2 4 7 2 5 3 5 3 3 4;
+    src: url(../Fonts/Book-Antiqua-Bold.ttf);
+    font-family: "Book Antiqua"
+    }
+@font-face {
+    font-style: italic;
+    font-weight: bold;
+    panose-1: 2 4 7 2 6 3 5 10 2 4;
+    src: url(../Fonts/Book-Antiqua-Bold-Italic.ttf);
+    font-family: "Book Antiqua"
+    }
