@@ -3,7 +3,13 @@ title: ''
 contentType: prose
 ---
 
+  
+
 Znění tohoto textu vychází z díla [Ílias](https://aleph.nkp.cz/F/?func=direct&doc_number=000943452&local_base=CNB) tak, jak bylo vydáno v Praze nakladatelstvím Jan Laichter v roce 1934. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+
+  
+
+  
 
 * * *
 
@@ -11,7 +17,13 @@ Znění tohoto textu vychází z díla [Ílias](https://aleph.nkp.cz/F/?func=dir
 
 Text díla (Homéros: Ílias), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
+  
+
 * * *
+
+  
+
+  
 
 * * *
 
@@ -19,7 +31,13 @@ Text díla (Homéros: Ílias), publikovaného [Městskou knihovnou v Praze](http
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
+  
+
 * * *
+
+  
+
+  
 
 Verze 1.0 z 24. 8. 2018.
 

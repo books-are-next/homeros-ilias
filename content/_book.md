@@ -52,8 +52,105 @@ readingOrder:
   - ilias_037.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: ilias_005.html
+        title: Úvod
+        hiddenTitle: false
+      - link: ilias_006.html
+        title: Achilleův hněv
+        hiddenTitle: false
+      - link: ilias_007.html
+        title: Zpěv I.
+        hiddenTitle: false
+      - link: ilias_008.html
+        title: Boje bez Achillea
+        hiddenTitle: false
+      - link: ilias_009.html
+        title: Zpěv II.
+        hiddenTitle: false
+      - link: ilias_010.html
+        title: Zpěv III.
+        hiddenTitle: false
+      - link: ilias_011.html
+        title: Zpěv IV.
+        hiddenTitle: false
+      - link: ilias_012.html
+        title: Zpěv V.
+        hiddenTitle: false
+      - link: ilias_013.html
+        title: Zpěv VI.
+        hiddenTitle: false
+      - link: ilias_014.html
+        title: Zpěv VII.
+        hiddenTitle: false
+      - link: ilias_015.html
+        title: Zpěv VIII.
+        hiddenTitle: false
+      - link: ilias_016.html
+        title: Zpěv IX.
+        hiddenTitle: false
+      - link: ilias_017.html
+        title: Zpěv X.
+        hiddenTitle: false
+      - link: ilias_018.html
+        title: Zpěv XI.
+        hiddenTitle: false
+      - link: ilias_019.html
+        title: Zpěv XII.
+        hiddenTitle: false
+      - link: ilias_020.html
+        title: Zpěv XIII.
+        hiddenTitle: false
+      - link: ilias_021.html
+        title: Zpěv XIV.
+        hiddenTitle: false
+      - link: ilias_022.html
+        title: Zpěv XV.
+        hiddenTitle: false
+      - link: ilias_023.html
+        title: Zpěv XVI.
+        hiddenTitle: false
+      - link: ilias_024.html
+        title: Zpěv XVII.
+        hiddenTitle: false
+      - link: ilias_025.html
+        title: Zpěv XVIII.
+        hiddenTitle: false
+      - link: ilias_026.html
+        title: Achilleus v boji
+        hiddenTitle: false
+      - link: ilias_027.html
+        title: Zpěv XIX.
+        hiddenTitle: false
+      - link: ilias_028.html
+        title: Zpěv XX.
+        hiddenTitle: false
+      - link: ilias_029.html
+        title: Zpěv XXI.
+        hiddenTitle: false
+      - link: ilias_030.html
+        title: Zpěv XXII.
+        hiddenTitle: false
+      - link: ilias_031.html
+        title: Závěr
+        hiddenTitle: false
+      - link: ilias_032.html
+        title: Zpěv XXIII.
+        hiddenTitle: false
+      - link: ilias_033.html
+        title: Zpěv XXIV.
+        hiddenTitle: false
+      - link: ilias_034.html
+        title: Přehled zpěvů íliady
+        hiddenTitle: false
+      - link: ilias_035.html
+        title: Slovníček
+        hiddenTitle: false
+      - link: ilias_036.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
