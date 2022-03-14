@@ -3,11 +3,13 @@ title: PŘEHLED ZPĚVŮ ÍLIADY
 contentType: prose
 ---
 
+  
+
 Ílias není epické vyprávění o válce trójské, o jejím vzniku a průběhu, nýbrž je to umělecké dílo, založené na myšlence o hněvu Achilleově, jeho vzniku a následcích. Nejsou to chladné popisy ani lhostejné vyprávění událostí, nýbrž promyšlené, psychologické a namnoze dramatické líčení pohnutlivých situací a scén úmyslně volených. Zvláštní podiv vzbuzuje mistrné líčení duševního stavu zúčastněných osob. Je tam ovšem mnoho míst rázu ryze epického, jako je výčet loďstva a vojska achajského a trójského, popisy bitev, soubojů, obětí, smluv atd. atd. Jak jinak měl básník takovéto scény vypravovat než klidně? A jistě by si nepočínal jinak ani spisovatel novověký, ani romanopisec a povídkář, ledaže by tu a tam přidal nějakou reflexi, jak to dělávají.
 
-Ale jsou v Íliadě místa, která svou psychologickou a citovou hloubkou a živostí provedení pranic nezadají ani nejlepším plodům novověkých básníků. V I. zpěvu básník nevypravuje o hněvu Achilleově, nýbrž nám jej přímo předvádí, jak a proč vznikl, jak rostl, až dostoupil svého vrcholu. Pravím přímo předvádí před oči a duši vlastními slovy, ano i skutky zúčastněných osob, jak to vídáme na divadle. Jejich slova jsou výrazem duševního stavu, planoucí oči a sahání po meči značí rostoucí, kypící vášeň. Nebýt spojovacích veršů, jako jsou:
+Ale jsou v Íliadě místa, která svou psychologickou a citovou hloubkou a živostí provedení pranic nezadají ani nejlepším plodům novověkých básníků. V I. zpěvu básník _nevypravuje_ o hněvu Achilleově, nýbrž nám jej _přímo_ předvádí, jak a proč vznikl, jak rostl, až dostoupil svého vrcholu. Pravím _přímo předvádí_ před oči a duši vlastními slovy, ano i skutky zúčastněných osob, jak to vídáme na divadle. Jejich slova jsou výrazem duševního stavu, planoucí oči a sahání po meči značí rostoucí, kypící vášeň. Nebýt spojovacích veršů, jako jsou:
 
-Achilleus rychlý v běhu mu odvětil těmito slovy:
+_Achilleus rychlý v běhu mu odvětil těmito slovy_:
 
 neb
 
@@ -17,7 +19,7 @@ připadá nám, jako bychom slyšeli dramatickou scénu na jevišti.
 
 Je možno scénu, v níž Priamos ve zpěvu XXIV. prosí Achillea za vydání svého syna Hektora, pokládat za lhostejné vypravování? Tam mluví ne Priamova ústa, nýbrž srdce utýrané bolestí, a není čtenáře, jehož srdce by se nechvělo, když to čte. Ale i tam, kde mluví básník sám, i tam slova jeho mívají účinek dramatický. Když básník líčí, jak Achilleus vzpomínkou na starého otce rázem zapomněl na svůj strašlivý hněv a propukl v pláč a zároveň s ním plakal Priamos, tu čtenář neslyší jen slova básníkova, nýbrž přímo před sebou vidí starce, jak pláče nad padlým synem, a mladého hrdinu, jak pláče nad starým otcem. Ale i v další části této scény čtenář vidí před sebou dva nepřátele, jak spolu sedí, spolu hovoří a spolu jedí atd.
 
-Ze slov Hektorových a jeho manželky v VI. zpěvu mluví vřelý cit. Nic se tam neděje, žádná událost, ale oba si vzájemně otvírají svá milující srdce, Hektór, který jde do války, musí jít do války, snad na smrt, a manželka, která se bojí o jeho život. Tato část básně je spíše lyrická než epická.
+Ze slov Hektorových a jeho manželky v VI. zpěvu mluví vřelý cit. Nic se tam neděje, žádná událost, ale oba si vzájemně otvírají svá milující srdce, Hektór, který jde do války, _musí_ jít do války, snad na smrt, a manželka, která se bojí o jeho život. Tato část básně je spíše lyrická než epická.
 
 Připomínám ještě scénu s Lykáonem ve zpěvu XXI. I zde čtenář přímo vidí mladistvého chlapce, jak se třese strachem, jak zoufale drží Achilleovo kopí, aby ho nemohl bodnout, a naproti němu obrovského hrdinu, rozlíceného pro smrt milého přítele Patrokla. I to je scéna spíš dramatická než epická. Proč? Poněvadž ani v ní není pouhé vypravování, nýbrž osoby zúčastněné samy svými projevy vyjadřují, co se děje v jejich rozrušených duších atd. atd.
 
@@ -29,27 +31,33 @@ Rozdělení je velmi nestejnoměrné: tak I. zpěv zabírá 21 dnů, ale zpěvy 
 
 Podrobný výčet by čtenáře asi nebavil.
 
-Přehled zpěvů Íliady
+_Přehled zpěvů Íliady_
 
-Obsah Íliady dělíme na čtyři oddíly_._ I. Příčina hněvu Achilleova a jeho následky = zpěv I. – II. Boje bez Achillea = zpěv II. až XVIII.–III. Achilleus v boji = zpěvy XIX.–XXII. – IV. závěr = zpěv XXIII.–XXIV.
+  
 
-PRVNÍ ODDÍL ÍLIADY
+Obsah Íliady dělíme na _čtyři oddíly__._ I. Příčina hněvu Achilleova a jeho následky = zpěv I. – II. Boje bez Achillea = zpěv II. až XVIII.–III. Achilleus v boji = zpěvy XIX.–XXII. – IV. závěr = zpěv XXIII.–XXIV.
+
+_PRVNÍ ODDÍL ÍLIADY_
+
+  
 
 Zpěv I. je základem a rozvrhem celé básně, vykládaje o příčinách Achilleova hněvu a jeho následcích, tj. o Diově slibu, že od nynějška budou Trójané tak dlouho vítězit, až Agamemnón pozná svůj blud.
 
-Zpěv I_._ Do achajského tábora přišel Apollónův kněz Chrýsés, chtěje vykoupit svou dceru, zajatkyni, kterou měl u sebe král Agamemnón. Ale Agamemnón kněze potupně vyhnal. Na prosbu knězovu Apollón poslal na Achajce mor. Po 9 dní lítaly bohovy střely po táboře achajském, ale král se nijak nepřičinil, aby hněv Apollónův odvrátil. Proto 10. dne svolal sněm Achilleus, který byl ve vojsku achajském po králi první a měl o vojsko největší zásluhy. Na schůzi Achilleus navrhoval, aby se zeptali nějakého věštce, proč se Apollón tolik rozhněval. Věštec Kalchás odpověděl, že se bůh rozezlil proto, že Agamemnón jeho kněze urazil, a že král jen tenkrát boha smíří, když Chrýsovi dceru vrátí a bohovi vzdá slavnostní žertvu. Agamemnón neodvážil se odporovat výroku věštcovu, ale prohlásil, že mu hned musí být dána náhrada. Tomu se Achilleus opřel. Z toho se rozpoutal mezi oběma prudký spor, ve kterém mluvil s Achilleem urážlivě a pohrdlivě, a konečně mu pohrozil, že mu násilím odejme dívku Bríseovnu. Uražený hrdina byl by málem Agamemnona mečem probodl. Z achajských knížat se nikdo Achillea nezastal. Marně se snažil Nestór, starý král pylský, aby spor urovnal. Když se sněm rozešel, Agamemnón Achilleovi násilím Bríseovnu odňal: Achilleus zanevřel na krále i všecky ostatní Achajce a nejenže se zřekl dalšího válčení, nýbrž i požádal matku Thetidu, aby od Dia vyprosila, by od té doby napořád vítězili Trójané, dokud by král nepoznal svůj blud. Zeus slíbil.
+_Zpěv I__._ Do achajského tábora přišel Apollónův kněz Chrýsés, chtěje vykoupit svou dceru, zajatkyni, kterou měl u sebe král Agamemnón. Ale Agamemnón kněze potupně vyhnal. Na prosbu knězovu Apollón poslal na Achajce mor. Po 9 dní lítaly bohovy střely po táboře achajském, ale král se nijak nepřičinil, aby hněv Apollónův odvrátil. Proto 10. dne svolal sněm Achilleus, který byl ve vojsku achajském po králi první a měl o vojsko největší zásluhy. Na schůzi Achilleus navrhoval, aby se zeptali nějakého věštce, proč se Apollón tolik rozhněval. Věštec Kalchás odpověděl, že se bůh rozezlil proto, že Agamemnón jeho kněze urazil, a že král jen tenkrát boha smíří, když Chrýsovi dceru vrátí a bohovi vzdá slavnostní žertvu. Agamemnón neodvážil se odporovat výroku věštcovu, ale prohlásil, že mu hned musí být dána náhrada. Tomu se Achilleus opřel. Z toho se rozpoutal mezi oběma prudký spor, ve kterém mluvil s Achilleem urážlivě a pohrdlivě, a konečně mu pohrozil, že mu násilím odejme dívku Bríseovnu. Uražený hrdina byl by málem Agamemnona mečem probodl. Z achajských knížat se nikdo Achillea nezastal. Marně se snažil Nestór, starý král pylský, aby spor urovnal. Když se sněm rozešel, Agamemnón Achilleovi násilím Bríseovnu odňal: Achilleus zanevřel na krále i všecky ostatní Achajce a nejenže se zřekl dalšího válčení, nýbrž i požádal matku Thetidu, aby od Dia vyprosila, by od té doby napořád vítězili Trójané, dokud by král nepoznal svůj blud. Zeus slíbil.
 
-DRUHÝ ODDÍL ÍLIADY
+_DRUHÝ ODDÍL ÍLIADY_
+
+  
 
 V 2. oddíle, v Bojích bez Achillea, rozeznáváme tyto čtyři části: V II. zpěvu se chystají obě vojska k boji, pak je 1. den bitevní ve zpěvech III.–VII. – boj byl nerozhodný, pak je 2. den bitevní ve zpěvu VIII. – Achajci poraženi. Ve zpěvu IX. je poselství k Achilleovi (večer po bitvě líčené ve zpěvu VIII.). Ve zpěvu X. je noční výprava do trójského tábora (téže noci jako IX.). Třetí den bitevní ve zpěvech XI.–XVIII. – Achajci na hlavu poraženi.
 
-Zpěv II_._ Aby Zeus přiměl Agamemnona k boji, poslal mu klamný sen, aby mu od Dia vyřídil vzkaz, že má vypravit Achajce k boji, poněvadž by mohl dobýt Tróje; bohové prý na přímluvu Héřinu jsou jedné mysli a přízniví Achaiům. Ag. ráno svolal poradu vůdců a sněm vojska. Vůdcům oznámil svůj sen a vybídl je, aby vypravili vojsko k bitvě, ale ohlásil, že chce nejdřív zkusit smýšlení lidu, a že je proto vybídne k odplutí domů, ale vůdcové aby je zdržovali. Na schůzi vojska vybídl tedy král lid, aby odplul domů, ale mluvil tak, že z jeho řeči bylo zřejmo, jak by bylo nemoudré odplout. Ale lid, sotva uslyšel, že má odplout, s velikou radostí a hlukem se rozběhl k lodím. Ale Odysseus na pobídku Athéninu lid přemluvil, aby zůstal, a přitom náležitě potrestal drzého mluvku Thersíta. Také Nestor domluvil lidu. Agamemnón vyzval lid, aby se šel najíst, Diovi obětoval býka a nařídil, aby vojsko vytáhlo. Pak je výčet achajského loďstva a vojska. Pak pochod Trójanů a výčet jejich vojsk.
+_Zpěv II__._ Aby Zeus přiměl Agamemnona k boji, poslal mu klamný sen, aby mu od Dia vyřídil vzkaz, že má vypravit Achajce k boji, poněvadž by mohl dobýt Tróje; bohové prý na přímluvu Héřinu jsou jedné mysli a přízniví Achaiům. Ag. ráno svolal poradu vůdců a sněm vojska. Vůdcům oznámil svůj sen a vybídl je, aby vypravili vojsko k bitvě, ale ohlásil, že chce nejdřív zkusit smýšlení lidu, a že je proto vybídne k odplutí domů, ale vůdcové aby je zdržovali. Na schůzi vojska vybídl tedy král lid, aby odplul domů, ale mluvil tak, že z jeho řeči bylo zřejmo, jak by bylo nemoudré odplout. Ale lid, sotva uslyšel, že má odplout, s velikou radostí a hlukem se rozběhl k lodím. Ale Odysseus na pobídku Athéninu lid přemluvil, aby zůstal, a přitom náležitě potrestal drzého mluvku Thersíta. Také Nestor domluvil lidu. Agamemnón vyzval lid, aby se šel najíst, Diovi obětoval býka a nařídil, aby vojsko vytáhlo. Pak je výčet achajského loďstva a vojska. Pak pochod Trójanů a výčet jejich vojsk.
 
-První bitevní den, zp. III–VII. – boj nerozhodný
+_První bitevní den, zp. III–VII. – boj nerozhodný_
 
-Zpěv III_._ Paridův souboj s Meneláem. Smlouva. Když obě vojska táhla proti sobě, Paris kráčel v popředí vojska trójského a vyzýval k souboji veškery vůdce achajské. Ale když mu vyšel vstříc Meneláos, Paris se ho lekl a couvl zpět do řad vojska trójského. Teprv na pokárání Hektorovo odhodlal se k souboji s Meneláem o Helenu a poklady. Hektór pak ohlásil Paridův návrh oběma vojskům. I chystali se učinit smlouvu a poslali do Tróje pro Priama. Ten právě seděl s předními trójskými šlechtici na Skajské bráně a Helené mu ukazovala jednotlivé reky achajské. Při smlouvě bylo ujednáno toto: zvítězí-li Paris a zabije Meneláa, vezme si Helenu a poklady, Achajci pak odplují; zvítězí-li Meneláos a zabije Parida, dostane Helenu a poklady a Achajci dostanou válečnou náhradu. V souboji měl Meneláos převahu, ale boj dokončen nebyl, poněvadž v největším nebezpečí Parida odnesla Afrodíté. Vítězem byl Meneláos, ale Paris zabit nebyl. Agamemnón se domáhal, aby byly vyplněny podmínky vítězství. Trójané se nevyjádřili.
+_Zpěv III__._ Paridův souboj s Meneláem. Smlouva. Když obě vojska táhla proti sobě, Paris kráčel v popředí vojska trójského a vyzýval k souboji veškery vůdce achajské. Ale když mu vyšel vstříc Meneláos, Paris se ho lekl a couvl zpět do řad vojska trójského. Teprv na pokárání Hektorovo odhodlal se k souboji s Meneláem o Helenu a poklady. Hektór pak ohlásil Paridův návrh oběma vojskům. I chystali se učinit smlouvu a poslali do Tróje pro Priama. Ten právě seděl s předními trójskými šlechtici na Skajské bráně a Helené mu ukazovala jednotlivé reky achajské. Při smlouvě bylo ujednáno toto: zvítězí-li Paris a zabije Meneláa, vezme si Helenu a poklady, Achajci pak odplují; zvítězí-li Meneláos a zabije Parida, dostane Helenu a poklady a Achajci dostanou válečnou náhradu. V souboji měl Meneláos převahu, ale boj dokončen nebyl, poněvadž v největším nebezpečí Parida odnesla Afrodíté. Vítězem byl Meneláos, ale Paris zabit nebyl. Agamemnón se domáhal, aby byly vyplněny podmínky vítězství. Trójané se nevyjádřili.
 
-Zpěv IV. je přímé pokračování zpěvu III. Větší díl obsahu je věnován přípravám k novému boji: porušení smlouvy z rozkazu Diova, králova pochůzka po táboře. – Kdyby Trójané výzvu Agamemnonovu byli přijali, byl by konec války a ovšem také básně Íliady. Bylo tedy v zájmu básníkově, aby válka byla vedena dále. Proto musila být smlouva porušena, ale ovšem od Trójanů. Jako obyčejně, zakročili bohové. Na tom, aby Trója byla zničena, záleželo nejvíc Athéně a Héře. Na popud Héřin poslal Zeus Athénu, aby přiměla Trójany k porušení přísežné smlouvy, a tak na sebe uvalili vinu křivé přísahy, která pak ovšem musila být potrestána. Athéné sletěla s nebes a v podobě Trójana Láodoka vyzvala lyckého lukostřelce Pandara, aby zastřelil Meneláa, sama však řídila střelu tak, aby M. byl jen lehce poraněn. Zatímco raněného léčil Macháón, přihnali se už Trójané k bitvě, Achajci ovšem také si oblékli zas brnění, chtíce bojovat. Agamemnón pak obcházel vojsko a pobízel každého ke statečnosti. Vzplanul obecný boj.
+_Zpěv IV._ je přímé pokračování zpěvu III. Větší díl obsahu je věnován přípravám k novému boji: porušení smlouvy z rozkazu Diova, králova pochůzka po táboře. – Kdyby Trójané výzvu Agamemnonovu byli přijali, byl by konec války a ovšem také básně Íliady. Bylo tedy v zájmu básníkově, aby válka byla vedena dále. Proto musila být smlouva porušena, ale ovšem od Trójanů. Jako obyčejně, zakročili bohové. Na tom, aby Trója byla zničena, záleželo nejvíc Athéně a Héře. Na popud Héřin poslal Zeus Athénu, aby přiměla Trójany k porušení přísežné smlouvy, a tak na sebe uvalili vinu křivé přísahy, která pak ovšem musila být potrestána. Athéné sletěla s nebes a v podobě Trójana Láodoka vyzvala lyckého lukostřelce Pandara, aby zastřelil Meneláa, sama však řídila střelu tak, aby M. byl jen lehce poraněn. Zatímco raněného léčil Macháón, přihnali se už Trójané k bitvě, Achajci ovšem také si oblékli zas brnění, chtíce bojovat. Agamemnón pak obcházel vojsko a pobízel každého ke statečnosti. Vzplanul obecný boj.
 
 _Zpěv V._ V této bitvě se nejvíc vyznamenal hrdina Diomédés, jemuž básník věnoval celý V. zpěv, který se také nazývá „Diomédovo hrdinství“: Bohyně Athéné dala Diomédovi velkou smělost a sílu, sňala mu s očí mlhu, aby rozeznal bohy, a vybídla jej, aby se chránil boje s bohy, ale Afrodítu aby ranil. Diomédés hrozně řádil v trójském vojsku, i když byl od Pandara šípem střelen do pravé plece. Aineiás, vida, jak Diomédés hubí Trójany, vyjel mu s Pandarem vstříc, ale Diomédés Pandara zabil a rozdrtil Ainéiovi balvanem kyčel, a když jej matka, bohyně Afrodíté, unášela z bojiště, Diomédés ranil i ji. Aineia unesl Apollón do svého chrámu v Tróji, kde jej léčily bohyně Artemis a Létó. Aineiás se za chvíli uzdraven vrátil. Pak vybídl Apollón boha války Area k boji proti Diomédovi, ale Diomédés s pomocí Athéninou ranil i jej. Epizodicky jest líčen boj Tlépolema, vnuka Diova, a Sarpédonta, syna Diova, v němž byl zabit Tlépolemos.
 
@@ -63,7 +71,7 @@ _Zpěv VII._ Tímto zpěvem se končí vypravování o prvním dnu bitevním. Hl
 
 Když Hektór a Paris po svém příchodu na bojiště úspěšně bojovali, Athéné s Apollónem dodali Hektorovi síly, zdali by chtěl k souboji vyzvat nejlepšího achajského reka. Věštec Helenos postřehl tuto úradu bohů, vybídl Hektora k souboji a ujistil ho, že nezemře. H. tedy vstoupil do středu vojsk a nabídl souboj. Ale v achajském vojsku nastalo mrtvé ticho, nikdo se nehlásil. Ale když je pohaněl Meneláos a chtěl sám bojovat s Hektorem, ačkoli byl mnohem slabší než H., a když jim domluvil Nestor, přihlásilo se devět reků, z nichž losem byl zvolen Aiás Telamónovec. Oba bojovali slavně, Aiás slavněji, ale souboj dokončit nemohli, poněvadž nastala noc. Po souboji byl v Tróji hlučný sněm, na němž Anténór, přední šlechtic trójský, radil, aby Trójané vrátili Achaiům Helenu i s poklady, poněvadž Trójané, porušivše přísežní smlouvu, vedou válku zločinnou. Paris prohlásil, že je ochoten vydat poklady, ale nikoli Helenu. Priamos druhého dne vzkázal po hlasateli Achaiům návrh Paridův a zároveň jim nabídl příměří, co by obě strany spálily padlé vojíny. Achajci návrh Paridův zamítli, ale příměří přijali. Po pohřbu vykopali hluboký příkop a vystavěli pevnou zeď s věžemi a branami, která by chránila lodí.
 
-Druhý bitevní den, tj. zpěv VIII. Achajci poraženi
+_Druhý bitevní den, tj. zpěv VIII. Achajci poraženi_
 
 _Zpěv VIII._ Osobní zakročení Diovo. Zeus svolal bohy do svého paláce a zakázal jim jakoukoli účast v boji a sám odjel na Ídu. Boji dal volný průběh až do poledne, ale pak mrštil bleskem do achajského vojska a zastrašil Achajce. Prchli. Prchl koněčně i Diomédés, ačkoli se dlouho zdráhal. Na prosbu Agamemnonovu dal Zeus na chvilku Achaiům sílu, takže postoupili dopředu, ale pak poznovu posílil Trójany. Achajci byli zahnáni až k lodím. Héré s Athénou vyjely sice z Olympu na pomoc Achaiům, ale pohrůžkou, kterou jim Zeus z Ídy po Íridě poslal, polekány zas se vrátily. Nastalá noc přerušila boj. Trójané nocovali venku, před achajským táborem.
 
@@ -75,9 +83,9 @@ _Zpěv X._ Noční výprava. Tato výprava byla podniknuta rovněž jako poselst
 
 Agamemnón nemohl starostmi spát a rval si zoufalstvím vlasy. Konečně se rozhodl odejít k Nestorovi o radu. Zatím k němu přišel Meneláos, který také nemohl spát. Vzbudili ostatní reky a šli nejprve dohlédnout na stráže, ale pak přešli příkop a usedli na volném místě k poradě. Na popud Nestorův vydal se Diomédés s Odysseem na zvědy do trójského tábora. Na cestě se potkali s trójským zvědem Dolónem, kterého poslal Hektór, zajali jej, vyzvěděli od něho, čeho potřebovali, a pak jej zabili. Nato vešli do tábora thráckého krále Rhésa, který právě přišel na pomoc Trójanům, zabili jej i 12 jiných Thráků, odvedli jeho sněhobílé koně a ujeli na nich zpět do tábora achajského.
 
-Třetí den bitevní ve zpěvech XI.–XVIII.
+_Třetí den bitevní ve zpěvech XI.–XVIII._
 
-Achajci byli na hlavu poraženi. Patroklos
+_Achajci byli na hlavu poraženi. Patroklos_
 
 _Zpěv XI._ Ráno se oboje vojska vypravila do boje, Achajce vedl Agamemnón, Trójany Hektór. Agamemnón vedl si tak hrdinsky, že Trójané před ním prchali. Zeus vzkázal Hektorovi po Íridě, aby se tak dlouho držel stranou, až Agamemnón bude raněn a odejde z bojiště, pak že mu dá slávu. Hektór tedy nevystupoval z řady. Ale zakrátko byl Agamemnón raněn od Koóna a musil opustit bojiště. Tu teprv vyrazil Hektór a strašlivě hubil Achajce, až jej Diomédés omráčil ranou kopí a Hektór odjel na voze z bojiště. Také jiní přední vůdcové byli raněni a musili z boje odejít. Diomédés byl od Parida střelen do chodidla pravé nohy. Odysseus byl kopím boden od Sóka, lékař a statný bojovník Macháón střelen od Parida do pravého plece a Eurypylos do stehna. I Aiás Telamónovec byl donucen couvat. Trójané nabyli ohromné převahy. – Tou dobou se díval Achilleus z lodi na boj a zdálo se mu, že Nestor veze raněného Macháóna, ale jistoty neměl. Proto poslal Patrokla k Nestorovi, aby se ho zeptal, koho to veze. To byl počátek zkázy Patroklovy, neboť Nestor mu poradil, aby přiměl Achillea, by ho poslal do boje a půjčil mu svou zbroj. Když se Patroklos vracel k Achilleovi, potkal raněného Eurypyla, zavedl ho do stanu, vyřízl mu z rány šíp a léčil jej (k Achilleovi se vrátil až ve zpěvu XVI.).
 
@@ -101,7 +109,7 @@ Patroklos přikvapil od Eurypyla pln úzkosti a se slzami v očích a poukazoval
 
 Zpěv XVI. značí obrat v dějích Íliady: Achilleus překonal svůj urputný hněv a nalezl sám sebe – zarputilost hněvu byla zlomena.
 
-Boj o mrtvolu Patroklovu ve zpěvu XVII. a XVIII.
+_Boj o mrtvolu Patroklovu ve zpěvu XVII. a XVIII._
 
 _Zpěv XVII._[_\[9\]_](./resources/undefined) Meneláův boj s Euforbem o mrtvolu Patroklovu, Euforbos padl. Meneláos pak čekal u mrtvoly. Zatím bůh Apollón upozornil Hektóra, že jeho snaha zmocnit se koní Achilleových, je marná, a oznámil mu, že Meneláos usmrtil Euforba. Hektór provázen zástupem Trójanů blížil se s velikým hlukem a Meneláos, vida před sebou přesilu, ustoupil, chtěje zavolat Aianta na pomoc. Hektór zatím svlekl Patroklovi zbroj, a když se Meneláos vracel s Aiantem, už vlekl Patrokla k Trójanům. Ale spatřiv Aianta, couvl a odešel z bojiště, aby si oblékl ukořistěnou zbroj Achilleovu. Když se vrátil, nastal zuřivý boj o Patrokla. Achilleus zatím neměl ještě ani tušení o pádu Patroklově. Zatím jeho nesmrtelní koňové propukli v pláč. Zeus se nad nimi slitoval a dodal jim síly, takže je vozataj Automedón mohl hnát k útoku na Trójany. Hektorův a Aineiův pokus, aby se jich zmocnili, se nezdařil. Aiás vida, jak Hektór a Aineás prudce útočí, vybídl Meneláa, by poslal Antilocha k Achilleovi s rychlou zprávou, že Patroklos padl. Pak vyzval Meneláa a Mériona, aby zvedli Patrokla a unášeli ho z bojiště.
 
@@ -113,7 +121,9 @@ Zatím bylo nebezpečí, že Hektór mrtvolu Patroklovu přece jen vyrve, vtom p
 
 II. díl: Nová zbroj Achilleova. Když Thetis přišla na Olymp do domu Héfaistova, přivítali ji vřele manželka Héfaistova Charis i Héfaistos sám. Když mu Thetis přednesla svou žádost, Héfaistos milerád slíbil, že Achilleovi novou zbroj zhotoví z vděčnosti za to, že ho s Eurynomou zachránila, když jej matka svrhla s nebes, poněvadž byl chromý. Pak šel do dílny a zhotovil překrásnou zbroj, zvlášť přeumělý štít.
 
-TŘETÍ DÍL ÍLIADY
+_TŘETÍ DÍL ÍLIADY_
+
+  
 
 Achilleus v boji, zpěvy XIX.–XXII. Ale zpěv XIX. je toliko přípravou k boji, boj sám začíná zpěvem XX.
 
@@ -127,7 +137,9 @@ _Zpěv XXII._ Hektorův pád.[\[11\]](./resources/undefined) Všichni Trójané 
 
 Zpěvem XXII. se vlastně Ílias končí, nic více se v Íliadě nestalo. Básník jen chtěl, a bylo toho také potřeba, svou báseň vhodně ukončit a to se stalo vylíčením Patroklova pohřbu, pohřebních her ku poctě Patroklově a výkupu Hektorova. Všecky tyto tři kusy jsou pěkné, místy skvostné, ale poslední dva jsou, smím-li toho slova užít, kusy přímo parádní a patří k perlám Íliady i celé řecké i světové literatury.
 
-ČTVRTÝ ODDÍL ÍLIADY
+_ČTVRTÝ ODDÍL ÍLIADY_
+
+  
 
 _Zpěv XXIII._ obsahuje pohřeb Patroklův a pohřební hry ku poctě Patroklově.
 

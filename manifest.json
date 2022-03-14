@@ -1,16 +1,16 @@
 {
   "author": "Homéros",
   "contenttype": "poetry",
-  "identifier": "homeros-ilias-cfb0bfa",
+  "identifier": "homeros-ilias-788c814",
   "languagecode": "cs",
   "modified": "2022-03-14T10:17:58.477Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ílias",
-  "revision": "cfb0bfa",
+  "revision": "788c814",
   "generatedAt": {
-    "date": "Mon Mar 14 2022 10:27:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647253668190
+    "date": "Mon Mar 14 2022 10:45:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647254716612
   },
   "documents": [
     {
@@ -96,9 +96,9 @@
     {
       "title": "ÚVOD • Ílias",
       "file": "ilias_005.html",
-      "words": 5062,
-      "chars": 31170,
-      "ideas": 60,
+      "words": 5056,
+      "chars": 31164,
+      "ideas": 58,
       "role": "chapter",
       "order": 4,
       "prev": "ilias_004.html",
@@ -137,7 +137,7 @@
       "title": "ZPĚV I. • Ílias",
       "file": "ilias_007.html",
       "words": 5575,
-      "chars": 30675,
+      "chars": 30677,
       "ideas": 635,
       "role": "chapter",
       "order": 6,
@@ -697,7 +697,7 @@
       "title": "SLOVNÍČEK[13] • Ílias",
       "file": "ilias_035.html",
       "words": 14381,
-      "chars": 87100,
+      "chars": 87108,
       "ideas": 409,
       "role": "chapter",
       "order": 34,
@@ -756,14 +756,14 @@
   ],
   "totals": {
     "all": {
-      "words": 162805,
-      "chars": 924474,
-      "ideas": 16328
+      "words": 162799,
+      "chars": 924478,
+      "ideas": 16326
     },
     "chapters": {
-      "words": 162801,
-      "chars": 924454,
-      "ideas": 16324
+      "words": 162795,
+      "chars": 924458,
+      "ideas": 16322
     }
   }
 }

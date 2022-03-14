@@ -16,16 +16,16 @@
       "h2": "",
       "h3": "mlpuroven3ilias mlpuroven3nadpisslovnicek ",
       "h4": "",
-      "hr": "",
+      "hr": "mlphvezdicky ",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radkub mlpdopisbez1radku mlpdopisbez1radku1 mlpdopisbez1radku12pred mlpdopisbez1radku2 mlpdopisbez1radku3",
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "mlpiliasstrednekurziva mlptextuprostredi mlpznakkurziva11b ",
+      "strong": "mlpznaktucne11b mlptirazautoranazev ",
       "remove": "",
       "ignore": ""
     },
@@ -33,6 +33,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "ilias_001.md",
@@ -92,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Úvod"
           },
           {
             "filename": "ilias_006.md",
@@ -104,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Achilleův hněv"
           },
           {
             "filename": "ilias_007.md",
@@ -116,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv I."
           },
           {
             "filename": "ilias_008.md",
@@ -128,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Boje bez Achillea"
           },
           {
             "filename": "ilias_009.md",
@@ -140,7 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv II."
           },
           {
             "filename": "ilias_010.md",
@@ -152,7 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv III."
           },
           {
             "filename": "ilias_011.md",
@@ -164,7 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv IV."
           },
           {
             "filename": "ilias_012.md",
@@ -176,7 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv V."
           },
           {
             "filename": "ilias_013.md",
@@ -188,7 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv VI."
           },
           {
             "filename": "ilias_014.md",
@@ -200,7 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv VII."
           },
           {
             "filename": "ilias_015.md",
@@ -212,7 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv VIII."
           },
           {
             "filename": "ilias_016.md",
@@ -224,7 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv IX."
           },
           {
             "filename": "ilias_017.md",
@@ -236,7 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv X."
           },
           {
             "filename": "ilias_018.md",
@@ -248,7 +262,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XI."
           },
           {
             "filename": "ilias_019.md",
@@ -260,7 +275,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XII."
           },
           {
             "filename": "ilias_020.md",
@@ -272,7 +288,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XIII."
           },
           {
             "filename": "ilias_021.md",
@@ -284,7 +301,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XIV."
           },
           {
             "filename": "ilias_022.md",
@@ -296,7 +314,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XV."
           },
           {
             "filename": "ilias_023.md",
@@ -308,7 +327,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XVI."
           },
           {
             "filename": "ilias_024.md",
@@ -320,7 +340,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XVII."
           },
           {
             "filename": "ilias_025.md",
@@ -332,7 +353,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XVIII."
           },
           {
             "filename": "ilias_026.md",
@@ -344,7 +366,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Achilleus v boji"
           },
           {
             "filename": "ilias_027.md",
@@ -356,7 +379,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XIX."
           },
           {
             "filename": "ilias_028.md",
@@ -368,7 +392,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XX."
           },
           {
             "filename": "ilias_029.md",
@@ -380,7 +405,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XXI."
           },
           {
             "filename": "ilias_030.md",
@@ -392,7 +418,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XXII."
           },
           {
             "filename": "ilias_031.md",
@@ -404,7 +431,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Závěr"
           },
           {
             "filename": "ilias_032.md",
@@ -416,7 +444,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XXIII."
           },
           {
             "filename": "ilias_033.md",
@@ -428,7 +457,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zpěv XXIV."
           },
           {
             "filename": "ilias_034.md",
@@ -440,7 +470,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Přehled zpěvů íliady"
           },
           {
             "filename": "ilias_035.md",
@@ -452,7 +483,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Slovníček"
           },
           {
             "filename": "ilias_036.md",
@@ -464,7 +496,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "ilias_037.md",
@@ -489,7 +522,7 @@
       "identifier": "e7ddad47-6280-4201-8b02-52fc967bdb54",
       "author": "Homéros",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-14T10:26:14.516Z"
+      "modified": "2022-03-14T10:43:45.448Z"
     },
     "chapters": [
       {
@@ -845,6 +878,6 @@
       "user": "books-are-next",
       "repo": "homeros-ilias"
     },
-    "generatedAt": 1647253576206
+    "generatedAt": 1647254627496
   }
 }
