@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XXIV.
+title: ZPĚV XXIV\.
 contentType: prose
 ---
 

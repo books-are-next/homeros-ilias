@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  X.
+title: ZPĚV X\.
 contentType: prose
 ---
 

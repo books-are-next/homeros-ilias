@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  VII.
+title: ZPĚV VII\.
 contentType: prose
 ---
 

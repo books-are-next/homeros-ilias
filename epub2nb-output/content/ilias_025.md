@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XVIII.
+title: ZPĚV XVIII\.
 contentType: prose
 ---
 

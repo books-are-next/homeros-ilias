@@ -1,21 +1,58 @@
 {
-  "author": "Homéros",
-  "contenttype": "poetry",
-  "identifier": "homeros-ilias-c7b3a41",
-  "languagecode": "cs",
-  "modified": "2022-03-14T10:17:58.477Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Ílias",
-  "revision": "c7b3a41",
+  "author": "Homéros",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "homeros-ilias-e2cab28",
+  "revision": "e2cab28",
+  "readingOrder": [
+    "promo.html",
+    "ilias_005.html",
+    "ilias_006.html",
+    "ilias_007.html",
+    "ilias_008.html",
+    "ilias_009.html",
+    "ilias_010.html",
+    "ilias_011.html",
+    "ilias_012.html",
+    "ilias_013.html",
+    "ilias_014.html",
+    "ilias_015.html",
+    "ilias_016.html",
+    "ilias_017.html",
+    "ilias_018.html",
+    "ilias_019.html",
+    "ilias_020.html",
+    "ilias_021.html",
+    "ilias_022.html",
+    "ilias_023.html",
+    "ilias_024.html",
+    "ilias_025.html",
+    "ilias_026.html",
+    "ilias_027.html",
+    "ilias_028.html",
+    "ilias_029.html",
+    "ilias_030.html",
+    "ilias_031.html",
+    "ilias_032.html",
+    "ilias_033.html",
+    "ilias_034.html",
+    "ilias_035.html",
+    "ilias_036.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 14 2022 10:55:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647255333206
+    "date": "Thu May 12 2022 10:40:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352016668
   },
   "documents": [
     {
-      "title": "Ílias",
-      "file": "ilias_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +60,17 @@
       "order": 0,
       "prev": null,
       "next": "ilias_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "ÚVOD • Ílias",
+      "title": "ÚVOD",
       "file": "ilias_005.html",
       "words": 5056,
       "chars": 31164,
       "ideas": 58,
       "role": "chapter",
       "order": 1,
-      "prev": "ilias_002.html",
+      "prev": "promo.html",
       "next": "ilias_006.html",
       "toc": [
         {
@@ -54,7 +83,7 @@
       ]
     },
     {
-      "title": "ACHILLEŮV HNĚV • Ílias",
+      "title": "ACHILLEŮV HNĚV",
       "file": "ilias_006.html",
       "words": 2,
       "chars": 14,
@@ -74,7 +103,7 @@
       ]
     },
     {
-      "title": "ZPĚV I. • Ílias",
+      "title": "ZPĚV I.",
       "file": "ilias_007.html",
       "words": 5575,
       "chars": 30677,
@@ -94,7 +123,7 @@
       ]
     },
     {
-      "title": "BOJE BEZ ACHILLEA • Ílias",
+      "title": "BOJE BEZ ACHILLEA",
       "file": "ilias_008.html",
       "words": 3,
       "chars": 17,
@@ -114,11 +143,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nII. • Ílias",
+      "title": "ZPĚV II.",
       "file": "ilias_009.html",
       "words": 7671,
-      "chars": 43539,
-      "ideas": 899,
+      "chars": 43540,
+      "ideas": 898,
       "role": "chapter",
       "order": 5,
       "prev": "ilias_008.html",
@@ -127,14 +156,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nII.",
+          "name": "ZPĚV II.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV III. • Ílias",
+      "title": "ZPĚV III.",
       "file": "ilias_010.html",
       "words": 4106,
       "chars": 23046,
@@ -154,7 +183,7 @@
       ]
     },
     {
-      "title": "ZPĚV IV. • Ílias",
+      "title": "ZPĚV IV.",
       "file": "ilias_011.html",
       "words": 4837,
       "chars": 27405,
@@ -174,11 +203,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nV. • Ílias",
+      "title": "ZPĚV V.",
       "file": "ilias_012.html",
       "words": 7918,
-      "chars": 44964,
-      "ideas": 923,
+      "chars": 44965,
+      "ideas": 922,
       "role": "chapter",
       "order": 8,
       "prev": "ilias_011.html",
@@ -187,14 +216,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nV.",
+          "name": "ZPĚV V.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV VI. • Ílias",
+      "title": "ZPĚV VI.",
       "file": "ilias_013.html",
       "words": 4695,
       "chars": 26531,
@@ -214,11 +243,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nVII. • Ílias",
+      "title": "ZPĚV VII.",
       "file": "ilias_014.html",
       "words": 4239,
-      "chars": 24059,
-      "ideas": 497,
+      "chars": 24060,
+      "ideas": 496,
       "role": "chapter",
       "order": 10,
       "prev": "ilias_013.html",
@@ -227,14 +256,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nVII.",
+          "name": "ZPĚV VII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV VIII. • Ílias",
+      "title": "ZPĚV VIII.",
       "file": "ilias_015.html",
       "words": 5029,
       "chars": 28169,
@@ -254,11 +283,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nIX. • Ílias",
+      "title": "ZPĚV IX.",
       "file": "ilias_016.html",
       "words": 6524,
-      "chars": 35757,
-      "ideas": 749,
+      "chars": 35758,
+      "ideas": 748,
       "role": "chapter",
       "order": 12,
       "prev": "ilias_015.html",
@@ -267,18 +296,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nIX.",
+          "name": "ZPĚV IX.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nX. • Ílias",
+      "title": "ZPĚV X.",
       "file": "ilias_017.html",
       "words": 5181,
-      "chars": 29043,
-      "ideas": 587,
+      "chars": 29044,
+      "ideas": 586,
       "role": "chapter",
       "order": 13,
       "prev": "ilias_016.html",
@@ -287,14 +316,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nX.",
+          "name": "ZPĚV X.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV XI. • Ílias",
+      "title": "ZPĚV XI.",
       "file": "ilias_018.html",
       "words": 7492,
       "chars": 42223,
@@ -314,11 +343,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXII. • Ílias",
+      "title": "ZPĚV XII.",
       "file": "ilias_019.html",
       "words": 4101,
-      "chars": 23260,
-      "ideas": 481,
+      "chars": 23261,
+      "ideas": 480,
       "role": "chapter",
       "order": 15,
       "prev": "ilias_018.html",
@@ -327,18 +356,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXII.",
+          "name": "ZPĚV XII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXIII. • Ílias",
+      "title": "ZPĚV XIII.",
       "file": "ilias_020.html",
       "words": 7441,
-      "chars": 41792,
-      "ideas": 861,
+      "chars": 41793,
+      "ideas": 860,
       "role": "chapter",
       "order": 16,
       "prev": "ilias_019.html",
@@ -347,18 +376,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXIII.",
+          "name": "ZPĚV XIII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXIV. • Ílias",
+      "title": "ZPĚV XIV.",
       "file": "ilias_021.html",
       "words": 4665,
-      "chars": 26119,
-      "ideas": 536,
+      "chars": 26120,
+      "ideas": 535,
       "role": "chapter",
       "order": 17,
       "prev": "ilias_020.html",
@@ -367,18 +396,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXIV.",
+          "name": "ZPĚV XIV.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXV. • Ílias",
+      "title": "ZPĚV XV.",
       "file": "ilias_022.html",
       "words": 6679,
-      "chars": 37312,
-      "ideas": 765,
+      "chars": 37313,
+      "ideas": 764,
       "role": "chapter",
       "order": 18,
       "prev": "ilias_021.html",
@@ -387,18 +416,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXV.",
+          "name": "ZPĚV XV.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXVI. • Ílias",
+      "title": "ZPĚV XVI.",
       "file": "ilias_023.html",
       "words": 7747,
-      "chars": 43515,
-      "ideas": 897,
+      "chars": 43516,
+      "ideas": 896,
       "role": "chapter",
       "order": 19,
       "prev": "ilias_022.html",
@@ -407,18 +436,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXVI.",
+          "name": "ZPĚV XVI.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXVII. • Ílias",
+      "title": "ZPĚV XVII.",
       "file": "ilias_024.html",
       "words": 6732,
-      "chars": 37960,
-      "ideas": 783,
+      "chars": 37961,
+      "ideas": 782,
       "role": "chapter",
       "order": 20,
       "prev": "ilias_023.html",
@@ -427,18 +456,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXVII.",
+          "name": "ZPĚV XVII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZPĚV\nXVIII. • Ílias",
+      "title": "ZPĚV XVIII.",
       "file": "ilias_025.html",
       "words": 4418,
-      "chars": 24723,
-      "ideas": 520,
+      "chars": 24724,
+      "ideas": 519,
       "role": "chapter",
       "order": 21,
       "prev": "ilias_024.html",
@@ -447,14 +476,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXVIII.",
+          "name": "ZPĚV XVIII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ACHILLEUS V BOJI • Ílias",
+      "title": "ACHILLEUS V BOJI",
       "file": "ilias_026.html",
       "words": 3,
       "chars": 16,
@@ -474,7 +503,7 @@
       ]
     },
     {
-      "title": "ZPĚV XIX. • Ílias",
+      "title": "ZPĚV XIX.",
       "file": "ilias_027.html",
       "words": 975,
       "chars": 5409,
@@ -494,7 +523,7 @@
       ]
     },
     {
-      "title": "ZPĚV XX. • Ílias",
+      "title": "ZPĚV XX.",
       "file": "ilias_028.html",
       "words": 4526,
       "chars": 25293,
@@ -514,7 +543,7 @@
       ]
     },
     {
-      "title": "ZPĚV XXI. • Ílias",
+      "title": "ZPĚV XXI.",
       "file": "ilias_029.html",
       "words": 5475,
       "chars": 30479,
@@ -534,11 +563,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXXII. • Ílias",
+      "title": "ZPĚV XXII.",
       "file": "ilias_030.html",
       "words": 4728,
-      "chars": 25953,
-      "ideas": 543,
+      "chars": 25954,
+      "ideas": 542,
       "role": "chapter",
       "order": 26,
       "prev": "ilias_029.html",
@@ -547,14 +576,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXXII.",
+          "name": "ZPĚV XXII.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZÁVĚR • Ílias",
+      "title": "ZÁVĚR",
       "file": "ilias_031.html",
       "words": 1,
       "chars": 5,
@@ -574,7 +603,7 @@
       ]
     },
     {
-      "title": "ZPĚV XXIII. • Ílias",
+      "title": "ZPĚV XXIII.",
       "file": "ilias_032.html",
       "words": 7987,
       "chars": 44705,
@@ -594,11 +623,11 @@
       ]
     },
     {
-      "title": "ZPĚV\nXXIV. • Ílias",
+      "title": "ZPĚV XXIV.",
       "file": "ilias_033.html",
       "words": 7422,
-      "chars": 40435,
-      "ideas": 831,
+      "chars": 40436,
+      "ideas": 830,
       "role": "chapter",
       "order": 29,
       "prev": "ilias_032.html",
@@ -607,14 +636,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZPĚV\nXXIV.",
+          "name": "ZPĚV XXIV.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "PŘEHLED ZPĚVŮ ÍLIADY • Ílias",
+      "title": "PŘEHLED ZPĚVŮ ÍLIADY",
       "file": "ilias_034.html",
       "words": 5701,
       "chars": 34673,
@@ -634,7 +663,7 @@
       ]
     },
     {
-      "title": "SLOVNÍČEK[13] • Ílias",
+      "title": "SLOVNÍČEK[13]",
       "file": "ilias_035.html",
       "words": 14381,
       "chars": 87108,
@@ -654,7 +683,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Ílias",
+      "title": "Poznámky pod čarou",
       "file": "ilias_036.html",
       "words": 1353,
       "chars": 8226,
@@ -674,11 +703,11 @@
       ]
     },
     {
-      "title": "Tiráž • Ílias",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 133,
-      "chars": 872,
-      "ideas": 25,
+      "words": 104,
+      "chars": 683,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "ilias_036.html",
@@ -696,14 +725,14 @@
   ],
   "totals": {
     "all": {
-      "words": 162799,
-      "chars": 924478,
-      "ideas": 16326
+      "words": 162770,
+      "chars": 924303,
+      "ideas": 16302
     },
     "chapters": {
       "words": 162663,
-      "chars": 923591,
-      "ideas": 16298
+      "chars": 923605,
+      "ideas": 16284
     }
   }
 }

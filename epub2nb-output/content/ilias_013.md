@@ -1,5 +1,5 @@
 ---
-title: ZPĚV VI.
+title: ZPĚV VI\.
 contentType: prose
 ---
 

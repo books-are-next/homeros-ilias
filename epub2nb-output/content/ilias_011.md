@@ -1,5 +1,5 @@
 ---
-title: ZPĚV IV.
+title: ZPĚV IV\.
 contentType: prose
 ---
 

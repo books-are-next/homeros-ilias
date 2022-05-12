@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XII.
+title: ZPĚV XII\.
 contentType: prose
 ---
 

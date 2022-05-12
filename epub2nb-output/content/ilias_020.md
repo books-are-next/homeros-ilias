@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XIII.
+title: ZPĚV XIII\.
 contentType: prose
 ---
 

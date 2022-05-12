@@ -51,7 +51,7 @@
             "filename": "ilias_002.md",
             "xhtml": "ilias_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -517,8 +517,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -526,7 +525,7 @@
       "identifier": "e7ddad47-6280-4201-8b02-52fc967bdb54",
       "author": "Homéros",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-14T10:54:11.464Z"
+      "modified": "2018-09-05T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -566,7 +565,7 @@
         "xhtml": "ilias_006.html"
       },
       {
-        "titleSuggest": "ZPĚV I.",
+        "titleSuggest": "ZPĚV I\\.",
         "subtitleSuggest": "",
         "filename": "ilias_007.md",
         "xhtml": "ilias_007.html"
@@ -578,103 +577,103 @@
         "xhtml": "ilias_008.html"
       },
       {
-        "titleSuggest": "ZPĚV\nII.",
+        "titleSuggest": "ZPĚV II\\.",
         "subtitleSuggest": "",
         "filename": "ilias_009.md",
         "xhtml": "ilias_009.html"
       },
       {
-        "titleSuggest": "ZPĚV III.",
+        "titleSuggest": "ZPĚV III\\.",
         "subtitleSuggest": "",
         "filename": "ilias_010.md",
         "xhtml": "ilias_010.html"
       },
       {
-        "titleSuggest": "ZPĚV IV.",
+        "titleSuggest": "ZPĚV IV\\.",
         "subtitleSuggest": "",
         "filename": "ilias_011.md",
         "xhtml": "ilias_011.html"
       },
       {
-        "titleSuggest": "ZPĚV\nV.",
+        "titleSuggest": "ZPĚV V\\.",
         "subtitleSuggest": "",
         "filename": "ilias_012.md",
         "xhtml": "ilias_012.html"
       },
       {
-        "titleSuggest": "ZPĚV VI.",
+        "titleSuggest": "ZPĚV VI\\.",
         "subtitleSuggest": "",
         "filename": "ilias_013.md",
         "xhtml": "ilias_013.html"
       },
       {
-        "titleSuggest": "ZPĚV\nVII.",
+        "titleSuggest": "ZPĚV VII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_014.md",
         "xhtml": "ilias_014.html"
       },
       {
-        "titleSuggest": "ZPĚV VIII.",
+        "titleSuggest": "ZPĚV VIII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_015.md",
         "xhtml": "ilias_015.html"
       },
       {
-        "titleSuggest": "ZPĚV\nIX.",
+        "titleSuggest": "ZPĚV IX\\.",
         "subtitleSuggest": "",
         "filename": "ilias_016.md",
         "xhtml": "ilias_016.html"
       },
       {
-        "titleSuggest": "ZPĚV\nX.",
+        "titleSuggest": "ZPĚV X\\.",
         "subtitleSuggest": "",
         "filename": "ilias_017.md",
         "xhtml": "ilias_017.html"
       },
       {
-        "titleSuggest": "ZPĚV XI.",
+        "titleSuggest": "ZPĚV XI\\.",
         "subtitleSuggest": "",
         "filename": "ilias_018.md",
         "xhtml": "ilias_018.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXII.",
+        "titleSuggest": "ZPĚV XII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_019.md",
         "xhtml": "ilias_019.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXIII.",
+        "titleSuggest": "ZPĚV XIII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_020.md",
         "xhtml": "ilias_020.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXIV.",
+        "titleSuggest": "ZPĚV XIV\\.",
         "subtitleSuggest": "",
         "filename": "ilias_021.md",
         "xhtml": "ilias_021.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXV.",
+        "titleSuggest": "ZPĚV XV\\.",
         "subtitleSuggest": "",
         "filename": "ilias_022.md",
         "xhtml": "ilias_022.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXVI.",
+        "titleSuggest": "ZPĚV XVI\\.",
         "subtitleSuggest": "",
         "filename": "ilias_023.md",
         "xhtml": "ilias_023.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXVII.",
+        "titleSuggest": "ZPĚV XVII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_024.md",
         "xhtml": "ilias_024.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXVIII.",
+        "titleSuggest": "ZPĚV XVIII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_025.md",
         "xhtml": "ilias_025.html"
@@ -686,25 +685,25 @@
         "xhtml": "ilias_026.html"
       },
       {
-        "titleSuggest": "ZPĚV XIX.",
+        "titleSuggest": "ZPĚV XIX\\.",
         "subtitleSuggest": "",
         "filename": "ilias_027.md",
         "xhtml": "ilias_027.html"
       },
       {
-        "titleSuggest": "ZPĚV XX.",
+        "titleSuggest": "ZPĚV XX\\.",
         "subtitleSuggest": "",
         "filename": "ilias_028.md",
         "xhtml": "ilias_028.html"
       },
       {
-        "titleSuggest": "ZPĚV XXI.",
+        "titleSuggest": "ZPĚV XXI\\.",
         "subtitleSuggest": "",
         "filename": "ilias_029.md",
         "xhtml": "ilias_029.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXXII.",
+        "titleSuggest": "ZPĚV XXII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_030.md",
         "xhtml": "ilias_030.html"
@@ -716,13 +715,13 @@
         "xhtml": "ilias_031.html"
       },
       {
-        "titleSuggest": "ZPĚV XXIII.",
+        "titleSuggest": "ZPĚV XXIII\\.",
         "subtitleSuggest": "",
         "filename": "ilias_032.md",
         "xhtml": "ilias_032.html"
       },
       {
-        "titleSuggest": "ZPĚV\nXXIV.",
+        "titleSuggest": "ZPĚV XXIV\\.",
         "subtitleSuggest": "",
         "filename": "ilias_033.md",
         "xhtml": "ilias_033.html"
@@ -882,6 +881,6 @@
       "user": "books-are-next",
       "repo": "homeros-ilias"
     },
-    "generatedAt": 1647255253631
+    "generatedAt": 1652351486537
   }
 }
