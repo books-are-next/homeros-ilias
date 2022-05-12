@@ -1,5 +1,5 @@
 ---
-title: ZPĚV XIX.
+title: ZPĚV XIX\.
 contentType: prose
 ---
 

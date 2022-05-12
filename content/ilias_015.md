@@ -1,5 +1,5 @@
 ---
-title: ZPĚV VIII.
+title: ZPĚV VIII\.
 contentType: prose
 ---
 

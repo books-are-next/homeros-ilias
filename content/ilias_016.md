@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  IX.
+title: ZPĚV IX\.
 contentType: prose
 ---
 

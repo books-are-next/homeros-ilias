@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XIV.
+title: ZPĚV XIV\.
 contentType: prose
 ---
 

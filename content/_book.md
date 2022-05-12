@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-14T10:17:58.477Z'
   publisherShort: mkp
 readingOrder:
-  - ilias_002.html
+  - promo.html
   - ilias_005.html
   - ilias_006.html
   - ilias_007.html

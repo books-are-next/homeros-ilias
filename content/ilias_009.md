@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  II.
+title: ZPĚV II\.
 contentType: prose
 ---
 

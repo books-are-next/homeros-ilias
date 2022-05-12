@@ -1,5 +1,5 @@
 ---
-title: ZPĚV XI.
+title: ZPĚV XI\.
 contentType: prose
 ---
 

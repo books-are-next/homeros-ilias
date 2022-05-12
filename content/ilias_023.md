@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZPĚV
-  XVI.
+title: ZPĚV XVI\.
 contentType: prose
 ---
 
