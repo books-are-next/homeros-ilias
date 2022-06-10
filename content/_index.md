@@ -1,6 +1,10 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
+<section>
+
 ![Ílias](./resources/obalka.jpg)
+
+</section>

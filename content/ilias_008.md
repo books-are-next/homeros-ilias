@@ -1,6 +1,6 @@
 ---
 title: BOJE BEZ ACHILLEA
-contentType: prose
+contentType: poetry
 ---
 
 

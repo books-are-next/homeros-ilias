@@ -1,85 +1,123 @@
 ---
 title: SLOVNÍČEK[13]
-contentType: prose
+contentType: poetry
 ---
 
-  
+<section>
 
 Zkratky:
 
-  
+</section>
+
+<section>
 
 bř. = břeh, pobřeží
 
-  
+</section>
+
+<section>
 
 dc. = dcera
 
-  
+</section>
+
+<section>
 
 h. = hora
 
-  
+</section>
+
+<section>
 
 Í. = Ílias, Í-dy = Íliady atd.
 
-  
+</section>
+
+<section>
 
 j. = jak, jako, jih, jižní, -ně
 
-  
+</section>
+
+<section>
 
 jm. = jméno
 
-  
+</section>
+
+<section>
 
 k. = krajina
 
-  
+</section>
+
+<section>
 
 kr. = král, kr-na = královna
 
-  
+</section>
+
+<section>
 
 m. = město
 
-  
+</section>
+
+<section>
 
 mo. = moře
 
-  
+</section>
+
+<section>
 
 n. = národ, neb, nebo
 
-  
+</section>
+
+<section>
 
 o. = ostrov
 
-  
+</section>
+
+<section>
 
 ph. = pohoří
 
-  
+</section>
+
+<section>
 
 ř. = řeka
 
-  
+</section>
+
+<section>
 
 s. = sever, -ní, -ně
 
-  
+</section>
+
+<section>
 
 z. = západ, -ní, -ně
 
-  
+</section>
+
+<section>
 
 ze. = země
 
-  
+</section>
+
+<section>
 
 zl. = záliv
 
-  
+</section>
+
+<section>
 
 **Složky:** sv., sz., jv., jz. = severovýchod, -ní, -ně atd.
 
@@ -123,41 +161,57 @@ zl. = záliv
 
 **Aineiás** (2. pád -neia), vůdce Dardanův, byl z nejstatečnějších bojovníků trójských vedle Hektora. Pocházel z téhož praotce, tj. z Diova syna Dardana, kterého Zeus nejvíce miloval ze svých pozemských synů. Dardanos založil Dardanii na úpatí ph. Ídy, kdež on i syn jeho vládl až do založení Tróje, které se přičítá Ílovi, vnuku Dardanovu. Odtud se rod rozdělil: starší větev vládla v Dardanii, mladší v Tróji.
 
-  
+</section>
+
+<section>
 
 Dardanos
 
-  
+</section>
+
+<section>
 
 |
 
-  
+</section>
+
+<section>
 
 Erichthonios
 
-  
+</section>
+
+<section>
 
 |
 
-  
+</section>
+
+<section>
 
 Trós:
 
-  
+</section>
+
+<section>
 
 Ílos, Láomedón, Títhónos, Priamos, Hektór = vládli v Tróji
 
-  
+</section>
+
+<section>
 
 Assarakos, Kapys, Anchísés, Aineiás = vládli v Dardanii
 
-  
+</section>
+
+<section>
 
 Ganymédés
 
-  
+</section>
 
-  
+<section>
 
 Pro tuto rodovou blízkost býval Aineiás jmenován také vůdcem trójským. Matkou jeho byla bohyně Afrodíté. Ale zdá se, že oba rody žily v jistém napětí, aspoň na začátku se Aineiás války neúčastnil: byl v Dardanii a pásl klidně otcovská stáda na stráních Ídy. Teprv když Achilleus jej přepadl a zahnal do Lyrnésa (který pak zbořil), přivedl Aineiás Dardany do Tróje. Ale ani pak nežily oba rody v úplném souladu. Priamos Aineia nectil, ačkoli nad jiné hrdinou býval. Proto se Aineiás na Priama hněval a straníval se boje. Příčina není nám známa. Zato trójský lid si ho velice vážil dle básníkových slov „jako boha“ a Trójan Helenos mu do očí řekl, že na Hektorovi a na něm založen je všechen válečný trud. Určen byl, aby po Priamovi, jehož rod se už Diovi zprotivil, vládl nad lidem trójským a po něm i synové synů. Nikde se v starověku o tom nemluví, že by Aineiás a jeho rod panoval nad Trójany v nově zbudované Tróji, a už staří a ovšem zvláště Římané a zejména rod Júlský slova ta si vykládali v ten smysl, že potomci Aineiovi založí Řím. Sr. Verg. Aen. III. 97. Vychován byl u svého švagra Alkathoa, muže nejstarší Aineiovy sestry Hippodameie. Alkathoos byl zabit od Ídomenéa.
 
@@ -878,3 +932,5 @@ Pro tuto rodovou blízkost býval Aineiás jmenován také vůdcem trójským. M
 **Zeus** (2. pád Dia a Zéva), nejvyšší bůh řecký, syn Kronův a Rhein, bratr Poseidónův a Hádův, manžel (a bratr) Héřin. Měl mnoho synů a dcer z různých manželek. Viz i Kronos. Při dělbě o vládu světa dostalo se mu nebes, tj. zářící, nadvzdušné oblasti světla, étheru. Bydlil na temenech vysokých hor, které svými vrcholy sahají do étheru, zvl. na Olympu a Ídě, ale i na jiných. Na Olympu mu Héfaistos vystavěl nádherný palác, ve kterém se shromáždili bohové. Jest nejvyšším vládcem _přírody, bohů i lidí._ 1. Jakožto bůh nebes je _původcem všech zjevů atmosférických, tepelných i světelných změn._ Od něho pochází hrom, blesk, mračna, déšť, sníh, větry, bouře i duha. Rozžíhá jitro, posílá noc, roky a střídání počasí. Přívlastek _oblačný, sběratel mraků_ pochází odtud, že kolem vrcholů vysokých hor mračna nejdřív „se sbírají“, shromažďují. Vládna bleskem, je nejmocnější z bohů, svrchovaný pán všeho, co jest. I fysicky je nejsilnější. Pokynem brv a chůzí otřásá Olympem. 2. Jest králem bohů, po výtce „bůh“, otec, nejvyšší vládce. Bohové se bojí blesku i jeho síly a poslouchají ho, ale jen ze strachu – také ukazují vždy jen na to, že Z. je nejsilnější. Kde mohou, hlavně za zády, jej klamou, zvl. Héré. Ale vystoupí-li proti němu veřejně, dovede si poslušnost vynutit. 3. _Diova vláda nad lidmi_ jeví se nejrozmanitějším způsobem a po každé stránce. – _Svou vůli projevoval_ bleskem a hromem neb letem orla, ale i jinými znameními (vrabčata). Nejstarší a vedle delfské nejslavnější byla _věštírna v Dódóně_ v Épeiru, kde zkoumali jeho vůli ze šumění posvátného dubu. Kněží, Sellové, nemyli si nohou a spali na zemi. Z. sesílal sny, i klamné, vidění ve snách, i tajemnou pověst náhle vznikající (Ossa, Omfé). Zkrátka Z. rozhoduje o všem v životě bohů i lidí, v rodinách a ve státech: vše závisí na něm, on je všeho počátek i konec, A–Ž. – A přece _není moc jeho neomezená:_ Je nejmocnější a nejsilnější nade všecky bohy, a přece stačili tři bohové, Athéné, Poseidón a Héré, aby ho svázali, a jen Thetis ho zachránila. – Je nejmoudřejší, všecko ví, ale každou chvíli ho některý bůh oklame, i on podléhá Bludu, svému synovi. Leckdy je na rozpacích, jak se má rozhodnout, a tu mu radívají jiní bohové; např. Sarpédonta. Známy jsou Diovy váhy. Povahou byl mírumilovný, dobrý a laskavý, ale prchlivý. Kde mohl, vyhnul se sporu a raději ustoupil, hlavně Héře.
 
 **Zora** (2. pád -ry), viz Éós.
+
+</section>

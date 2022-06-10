@@ -1,6 +1,6 @@
 ---
 title: ACHILLEŮV HNĚV
-contentType: prose
+contentType: poetry
 ---
 
 
