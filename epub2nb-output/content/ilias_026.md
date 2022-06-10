@@ -1,6 +1,6 @@
 ---
 title: ACHILLEUS V BOJI
-contentType: prose
+contentType: poetry
 ---
 
 

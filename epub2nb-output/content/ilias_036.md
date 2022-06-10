@@ -1,7 +1,9 @@
 ---
 title: Poznámky pod čarou
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 [\[1\]](./resources/undefined) Více o Patroklovi viz ve zvláštním odstavci tohoto úvodu „Patroklos“.
 
@@ -34,3 +36,5 @@ Snad se i zde setkáváme se známou básníkovou zálibou v překvapování. Vy
 [\[13\]](./resources/undefined) Nebylo možná do tohoto slovníčku pojmout všecka vlastní jména osob a věcí, je jich příliš mnoho. Zvláště zeměpisná jména až na skrovné výjimky jsou vynechána, poněvadž by výklad o nich ničím nepřispěl k porozumění místům. Jen nepatrnou část všech vl. jmen jsem do slovníčku zařadil. Jsou to předně jména, na která jsou v básni činěny narážky, jimž by čtenář bez výkladu neporozuměl, např. Marpéssa, Týdeus a jiná, a pak ovšem jména osob, jež mají v básni důležitý úkol a bylo potřeba je stručně charakterisovat, a konečně jména, jež bylo nutno vysvětlit, aby mohlo být místům porozuměno. Do slovníčku pojato jen to, co bylo k výkladu míst nezbytně nutné.
 
 [\[14\]](./resources/undefined) Viz krásnou a vyčerpávající rozpravu Achilleus od Vojtěcha Hanačíka ve výr. zprávě vyššího gymn. v Žitné ulici v Praze r. 1889/90. Některé myšlenky jsem z ní ovšem přijal.
+
+</section>

@@ -1,9 +1,9 @@
 ---
 title: ÚVOD
-contentType: prose
+contentType: poetry
 ---
 
-  
+<section>
 
 OSNOVA BÁSNĚ. Kostra osnovy Íliady je tato: Dokud se Achilleus účastnil bojů, Hektór, statečný vůdce Trójanů, po několika rozhodných porážkách neodvažoval se pak už boje s Achajci; vyváděl vojsko jen před Skajskou bránu, a nanejvýš k dubu, který stál před hradbami. Ale když v desátém roce války Achillea urazil král Agamemnón, vůdce vojska, a nikdo z achajských knížat se Achillea neujal, tu pokořený Achilleus prohlásil, že se dále války neúčastní. – Následky toho byly strašlivé: Jakmile Trójané zvěděli, že Achilleus bojovat nebude, ihned vyšli směle z brány a svedli opět s Achajci boj na trójské pláni. První bitevní den byl sice nerozhodný, ale již druhého dne byli Achaiové na hlavu poraženi. Achajská knížata poslala sice k Achilleovi prosebné poselství, Agamemnón mu nabízel vzácné dary, ale uražený hrdina zamítl dary i smír. V příštím boji (třetího bitevního dne) byli Achajci úplně poraženi, ano zahnáni až k lodím, které Hektór již již zapaloval. V této svrchované tísni Patroklos, nejmilejší přítel Achilleův, prosil – z Nestorova návodu – rozhněvaného reka – když už sám nechce pomoci, aby mu půjčil svou zbroj, a dovolil mu vyrazit s Achilleovým vojskem na pomoc Achaiům. Hrdina svolil, ale poručil Patroklovi, aby jen zahnal Trójany od lodí, ale pak aby se hned vrátil. Patroklos však neposlechl Achilleova rozkazu a pronásledoval Trójany až k městu, ale tam byl od Hektora zabit.[\[1\]](./resources/undefined) Achajci stěží zachránili jeho mrtvolu. Úspěch Patroklův byl tedy jen chvilkový a statečný tento hrdina zaplatil jej smrtí. Tu teprv povstal k boji Achilleus, porazil Trójany a Hektora v souboji zabil. – Tedy: s Achilleem vítězství a bezpečí, bez Achillea porážka a nebezpečí.
 
@@ -31,7 +31,9 @@ Vraťme se k Hektorovi! Z výkladu nahoře podaného si ovšem snadno vysvětlí
 
 Básník však Hektora nutně potřeboval: V bojích, jak jsou líčeny v Íliadě, způsobil vítězství pravidelně mohutný rek (např. Nestór, Meleagros). Měli-li dle plánu Íliady Achaiové být poraženi, básník potřeboval k tomu silného reka trójského, který by tuto porážku provedl – ovšem s pomocí Diovou. Proto jej vylíčil jako reka statečného a silného, ale národní hrdost řecká nepřipouštěla, aby napořád vítězil – dokud Zeus do bojů nezasáhl.
 
-  
+</section>
+
+<section>
 
 ACHILLEŮV HNĚV je pramenem všech dějů Íliady a hlavním jejím obsahem. Kolem něho se otáčí vše, co se v básni děje, jako kolem své osy. Básník vlastně opěval jen tento hněv a učinil jej sloupem celé básně. Proto se musil pokusit o to, aby jeho vznik a vývoj vykreslil tak, aby čtenář viděl, že byl odůvodněn, nevyhnutelný a spravedlivý, a že Achilleus ani jinak jednat nemohl. Propukl sice až v desátém roce války, ale jeho zárodky byly staré, snad už od jejího počátku. Apollónův mor, vlastní jeho zdroj, byl jen poslední příčinou jeho výbuchu: _Homérův Agamemnón_ byl mocný král a statečný bojovník, ale nadmíru pyšný, pánovitý, ješitný a domýšlivý a nesmírně sobecký. Raději způsobil ohromné škody sobě i vojsku, než by byl povolil, když viděl odpor proti své autoritě. _Achilleus__,_ vůdce thessalských Myrmidonů, byl ze všech nejsilnější a nejstatečnější. V boji byl nepřemožitelný, takže se Trójané ani neodvážili s ním bojovat na pláni trójské. Když tedy boj s nimi nebyl možný, Achilleus konal válečné výpravy do krajin okolních. Zbořil dvacet tři města a pokaždé přinesl nesmírnou kořist, kterou vždy odevzdal králi k rozdělení. _Celý zdar války a blahobyt vojska závisel na něm__._ Každý ho velebil a nanejvýš ctil – mnohem více než krále. To bylo ješitnému Agamemnonovi velmi nepříjemné: nebyl to on, který vojsku zaručoval vítězství a kořist, nýbrž krásný syn Thetidin. Mimoto byl Achilleus nanejvýš přímý, co na srdci, to na jazyku – a přímost ta pocházela z naprosté poctivosti. Všecko by byl spíše snesl než přetvářku, šalbu a lest. Také si byl vědom své ceny a důležitosti. Uznával sice královu autoritu a podřizoval se jeho rozkazům, ale jinak si vedl samostatně. Byl spíše _vedle_ krále než pod ním. To všecko Agamemnona velmi hnětlo a bylo by mu bývalo milejší, kdyby Achillea ve vojsku ani nebylo, ale nemohl proti němu pro jeho oblíbenost zakročit. Ale kde mohl, vždy Achillea odstrkoval. Z toho všeho se vyvíjelo mezi nimi napětí, které se stupňovalo – malý podnět stačil, aby spor propukl.
 
@@ -45,7 +47,9 @@ Ale Achilleus rozešel se i se všemi ostatními Achajci. Každý znal jeho cenu
 
 Každý čtenář Íliady vidí, že hněv Achilleův byl odůvodněn, nevyhnutelný a spravedlivý a že Achilleus jinak ani jednat nemohl.
 
-  
+</section>
+
+<section>
 
 POETICKÁ IDEA.[\[6\]](./resources/undefined) Ale bylo také dobře setrvat ve svém hněvu i tenkrát, když byl národ v nebezpečí zkázy a lid hynul pod rukama vítězných nepřátel?
 
@@ -81,7 +85,9 @@ _Obsahem Íliady_ jest Achilleův hněv a jeho následky, poetická idea je _vni
 
 * * *
 
-  
+</section>
+
+<section>
 
 Připomínám čtenářům, kteří se takovými otázkami nezabývají, že nesmíme osoby a jejich skutky posuzovat, jako by skutečně byly bývaly takové, jakými je básník vylíčil. Nejsou to osoby historické, nýbrž poetické. Historik hledí vyzkoumat povahu osob, doby, okolností atd., a z ní pak vysvětluje jejich činy. U básníka to bývá naopak. Báseň je umělecké dílo vybudované na nějaké poetické ideji. Aby provedl svůj básnický plán, básník sám upravuje řeči, skutky, ano i povahy osob své básně dle své poetické idey. Nesmíme tedy měřit osoby tyto hodnotami etickými – například horšit se nad špatným charakterem té oné osoby nebo vychvalovat charakter jiné –, nýbrž mít na paměti, že všecky řeči, skutky, ano i povahy osob jsou dílem básníkovým, tj. že básník sám takové vytvořil, protože jich k účelům své básně potřeboval. Zřetel náš musí být obrácen jen k tomu, zdali básník svému poetickému úkolu dostál, zdali vše dobře motivoval, zdali děje přirozeně jedny z druhých vyplývají, i z povah, jak je básník vytvořil.
 
@@ -91,7 +97,9 @@ _Vše je líčeno přirozeně a pravdivě__._ S nevyrovnatelnou jemností a psyc
 
 * * *
 
-  
+</section>
+
+<section>
 
 Ale básník nelíčí duševní stav rozbory psychologickými, jako to dělají moderní romanopisci, nýbrž prostým sestavením dějů, z nichž pak je duševní stav osob patrný. Podáme o tom dva příklady.
 
@@ -130,3 +138,5 @@ Tak i zde, jako všude jinde, je líčení básníkovo přirozené a pravdivé. 
 _Hektór__._ Duchaplně jest vylíčen i osud Hektorův. I on překročil míru, ale dopustil se bludu téměř bez vlastní viny. Poznal, že Zeus pomáhá Trójanům a vrhl se nadšeně do boje, doufaje, že pomocí Diovou Achajce porazí a souženou vlast osvobodí. Hektór se nemýlil: Zeus opravdu Trójanům pomáhal, ale Hektór nevěděl a nepoznal, že tato pomoc je dočasná – nepozoroval, že mu Zeus dává vítězství teprv od té chvíle, kdy Achilleus přestal bojovat. V tom byla jeho chyba, ale ne chyba mravní, nýbrž vzešlá z nepoznání. Hektór spoléhal se na Diovu pomoc i po Achilleově návratu do boje. Důvěra tato stála ho život. I on byl varován od Púlydamanta, který mu radil, aby vojsko bylo zavedeno do Tróje a obrana dála se za hradbami, Hektór mohl se ctí poslechnout rady Púlydamantovy. Nikdo by mu to byl nevykládal ve zlé. Ale rozjařen úspěchy válečnými a spoléhaje na pomoc Diovu odbyl příkře Púlydamanta. Hlavní však pohnutkou tohoto počínání byla touha, aby nepřítele porazil a vyhnal, a tak svou vlast, tolik let již týranou, osvobodil. – Teprv když Trójané byli strašně poraženi a v zmatku prchali do města, poznal svůj blud, ale bylo již pozdě. Nemohl se teď spasit do města, poněvadž by ho nejen Púlydamás, nýbrž kdekdo vinil z této strašné porážky a ze ztráty tolika životů, a on, dosud ode všech přímo zbožňovaný obránce Tróje, stál by před lidem jako viník a jeho škůdce. Stud, nesmírný stud mu bránil vejít do města. Proto se raději odhodlal k souboji s Achilleem, chtěje buď zvítězit, nebo padnout, ale se slávou, před samým městem. Čekal tedy na Achillea, ale bez naděje na úspěch, spíše se strachem nežli s odvahou – vždyť dosud nikdo Achilleovi neodolal. Sám to zakusil v dosavadních s ním srážkách, i v dnešní, a viděl i nynější porážku. Také nářek rodičů, kteří mu předpovídali smrt, pustí-li se s Achilleem do boje, spíše jeho statečnost podlomil, nežli vzpružil. Není tedy divu, že se dal na útěk, jakmile strašného nepřítele spatřil. – Není čtenáře, který by necítil soustrasti s tímto hrdinou, zvláště když jej bohyně Athéné oklamala a vydala jej Achilleovi téměř bezbranného.
 
 Podali jsme jen ukázku, jak máme takovýmto částem Íliady rozumět. Homéra nelze číst povrchně ani zběžně, nýbrž čtenář musí uvažovat nejen o každém místě zvlášť, ano mnohdy o každém výraze. Jen takovýmto čtením dopracuje se pravého porozumění našemu velikému básníku. – Jen probůh ať nikdo nečte a nevykládá si Homéra podle nějaké teorie!
+
+</section>

@@ -1,9 +1,9 @@
 ---
 title: PŘEHLED ZPĚVŮ ÍLIADY
-contentType: prose
+contentType: poetry
 ---
 
-  
+<section>
 
 Ílias není epické vyprávění o válce trójské, o jejím vzniku a průběhu, nýbrž je to umělecké dílo, založené na myšlence o hněvu Achilleově, jeho vzniku a následcích. Nejsou to chladné popisy ani lhostejné vyprávění událostí, nýbrž promyšlené, psychologické a namnoze dramatické líčení pohnutlivých situací a scén úmyslně volených. Zvláštní podiv vzbuzuje mistrné líčení duševního stavu zúčastněných osob. Je tam ovšem mnoho míst rázu ryze epického, jako je výčet loďstva a vojska achajského a trójského, popisy bitev, soubojů, obětí, smluv atd. atd. Jak jinak měl básník takovéto scény vypravovat než klidně? A jistě by si nepočínal jinak ani spisovatel novověký, ani romanopisec a povídkář, ledaže by tu a tam přidal nějakou reflexi, jak to dělávají.
 
@@ -33,13 +33,17 @@ Podrobný výčet by čtenáře asi nebavil.
 
 _Přehled zpěvů Íliady_
 
-  
+</section>
+
+<section>
 
 Obsah Íliady dělíme na _čtyři oddíly__._ I. Příčina hněvu Achilleova a jeho následky = zpěv I. – II. Boje bez Achillea = zpěv II. až XVIII.–III. Achilleus v boji = zpěvy XIX.–XXII. – IV. závěr = zpěv XXIII.–XXIV.
 
 _PRVNÍ ODDÍL ÍLIADY_
 
-  
+</section>
+
+<section>
 
 Zpěv I. je základem a rozvrhem celé básně, vykládaje o příčinách Achilleova hněvu a jeho následcích, tj. o Diově slibu, že od nynějška budou Trójané tak dlouho vítězit, až Agamemnón pozná svůj blud.
 
@@ -47,7 +51,9 @@ _Zpěv I__._ Do achajského tábora přišel Apollónův kněz Chrýsés, chtěj
 
 _DRUHÝ ODDÍL ÍLIADY_
 
-  
+</section>
+
+<section>
 
 V 2. oddíle, v Bojích bez Achillea, rozeznáváme tyto čtyři části: V II. zpěvu se chystají obě vojska k boji, pak je 1. den bitevní ve zpěvech III.–VII. – boj byl nerozhodný, pak je 2. den bitevní ve zpěvu VIII. – Achajci poraženi. Ve zpěvu IX. je poselství k Achilleovi (večer po bitvě líčené ve zpěvu VIII.). Ve zpěvu X. je noční výprava do trójského tábora (téže noci jako IX.). Třetí den bitevní ve zpěvech XI.–XVIII. – Achajci na hlavu poraženi.
 
@@ -123,7 +129,9 @@ II. díl: Nová zbroj Achilleova. Když Thetis přišla na Olymp do domu Héfais
 
 _TŘETÍ DÍL ÍLIADY_
 
-  
+</section>
+
+<section>
 
 Achilleus v boji, zpěvy XIX.–XXII. Ale zpěv XIX. je toliko přípravou k boji, boj sám začíná zpěvem XX.
 
@@ -139,7 +147,9 @@ Zpěvem XXII. se vlastně Ílias končí, nic více se v Íliadě nestalo. Básn
 
 _ČTVRTÝ ODDÍL ÍLIADY_
 
-  
+</section>
+
+<section>
 
 _Zpěv XXIII._ obsahuje pohřeb Patroklův a pohřební hry ku poctě Patroklově.
 
@@ -150,3 +160,5 @@ Hry, které básník velmi obšírně popisuje, byly tyto: koňské dostihy, pě
 _Zpěv XXIV._ ukončuje smírně všecky ty vášně a hrůzy, které líčí Ílias.
 
 Achilleus nemohl v noci spát, stále maje na mysli milovaného druha. Vstával z lože a chodil po břehu mořském. Ráno pak vázal Hektora za vůz a vláčel jej třikrát okolo mohyly Patroklovy, pak Hektora odvázal a položil na zem, tváří do prachu. To trvalo 12 dní. Apollón ovšem chránil reka, aby se mu neodřelo tělo. Dvanáctého dne ujal se ho Apollón. Zeus pak si obeslal Thetidu, aby Achilleovi vyřídila, že si Zeus přeje, aby Hektora za výkupné vydal. Achilleus ihned poslechl. K Priamovi pak poslal Íridu, aby došel k Achilleovi vykoupit syna, ale aby jel sám se starším vozkou a nebál se, poněvadž mu Zeus pošle Herma za průvodce. Priamos přes odpor manželčin se vydal na cestu, ale před odjezdem žádal Dia za znamení. Zeus mu poslal vpravo orla. Na cestě jim přišel vstříc Hermés, vlídně oslovil Priama a získav tak jeho důvěru, chopil se otěží, uspal stráž a dovezl jej až na dvůr stanu Achilleova. Pak řekl Priamovi, kdo je, a odešel na Olymp. Priamos vešel do stanu, objal kolena Achilleova, líbal mu ruce, ty ruce, které zabily Hektora, připomněl mu otce, také tak starého, a prosil za vydání Hektorovo. Vzpomínka na otce tak působila na srdce Achilleovo, že zapomněl na svůj strašlivý hněv proti Hektorovi a dal se do pláče. Oba plakali, Priamos nad synem, Achilleus nad otcem. Pak vstal z křesla, zdvihl jemně starce a posadil ho a mluvil s ním vlídně. Pak dal Hektora umýt, natřít olejem, obléci v krásný rubáš a sám jej pomáhal zdvihnout na vůz. Pak pohostil Priama a dal mu připravit lůžko v předsíni. Ale v noci vzbudil Priama Hermés, rychle zapřáhl koně i mezky, nepozorovaně projel táborem a zavezl je až k řece Skamandru. Pak se vrátil na Olymp. Časně ráno je zhlédla z hradu Kassandré, svolala Trójany a vyšla s nimi Priamovi vstříc. V městě nad ním naříká manželka, matka i Helené. Pak svezli Trójané dříví, postavili hranici, Hektora spálili a konečně slavili pohřební hody.
+
+</section>

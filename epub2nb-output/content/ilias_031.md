@@ -1,6 +1,6 @@
 ---
 title: ZÁVĚR
-contentType: prose
+contentType: poetry
 ---
 
 
