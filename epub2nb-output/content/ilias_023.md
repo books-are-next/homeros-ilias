@@ -167,7 +167,7 @@ léčíce jejich rány. — — —
 
 <section>
 
-                                              Ty, Achille, smířit se nedáš!!
+             Ty, Achille, smířit se nedáš!!
 
 </section>
 
@@ -199,7 +199,7 @@ nebyla matkou Thetis!! — —
 
 <section>
 
-                                                      Ty zrodil ses v jiskřivém moři,
+             Ty zrodil ses v jiskřivém moři,
 
 </section>
 
@@ -345,7 +345,7 @@ Co však stalo se dřív, již nechejme!
 
 <section>
 
-                                                                   Není přec možná
+                         Není přec možná
 
 </section>
 
@@ -443,7 +443,7 @@ hlas, jak Trójanům velí, se rozléhá!
 
 <section>
 
-                                                                   S jásotem tito
+                         S jásotem tito
 
 </section>
 
@@ -649,7 +649,7 @@ veskrz přerazil dřevce.
 
 <section>
 
-                                            I zamával oštěpem kusým
+                I zamával oštěpem kusým
 
 </section>
 
@@ -679,7 +679,7 @@ svysoka hřmící Zeus, jenž Tróům vítězství chystal. — —
 
 Couval z dosahu střel.
 
-                                           Vtom vržen nezmarný oheň
+             Vtom vržen nezmarný oheň
 
 </section>
 
@@ -689,7 +689,7 @@ v rychlou loď — jen mžik — již nezhasným plamenem plála.
 
 Tak tam po kormě žár již plápolal.
 
-                                                                  Achilleus rychlý
+                         Achilleus rychlý
 
 </section>
 
@@ -785,7 +785,7 @@ těžký, velký, pevný.
 
 <section>
 
-                                      Jím nemohl z Achaiů nikdo
+             Jím nemohl z Achaiů nikdo
 
 </section>
 
@@ -869,7 +869,7 @@ aby se každý muž již vyzbrojil.
 
 <section>
 
-                                                           Oni jak vlci,
+             Oni jak vlci,
 
 </section>
 
@@ -985,7 +985,7 @@ Bórovi jenom dle jména.
 
 <section>
 
-                                                Ten syn byl Periéreův,
+             Ten syn byl Periéreův,
 
 </section>
 
@@ -1201,7 +1201,7 @@ v popředí vojínů svých jít do boje. —
 
 <section>
 
-                                                                       Achilleus zatím
+             Achilleus zatím
 
 </section>
 
@@ -1591,7 +1591,7 @@ Napolo spálená loď tam zůstala.
 
 <section>
 
-                                                              S náramnou vřavou
+             S náramnou vřavou
 
 </section>
 
@@ -1735,7 +1735,7 @@ raněný skácel se vpřed.
 
 <section>
 
-                                              Vtom Maris na Antilocha
+                         Vtom Maris na Antilocha
 
 </section>
 
@@ -1753,7 +1753,7 @@ před jeho tělem stanuv.
 
 <section>
 
-                                              Tu Thrasyméd podobný bohům
+             Tu Thrasyméd podobný bohům
 
 </section>
 
@@ -1787,7 +1787,7 @@ sestoupli v temnoty říš.
 
 <section>
 
-                                              Jim Sarpédón soudruhem býval,
+                Jim Sarpédón soudruhem býval,
 
 </section>
 
@@ -1799,7 +1799,7 @@ znalcům zápasu kopím.
 
 <section>
 
-                                              Jich otec byl Amisódaros,
+             Jich otec byl Amisódaros,
 
 </section>
 
@@ -2721,7 +2721,7 @@ zároveň oči a nos.
 
 <section>
 
-                                   Rek na hruď patou mu stoupnuv,
+             Rek na hruď patou mu stoupnuv,
 
 </section>
 
@@ -2979,7 +2979,7 @@ Hektór, pro Sarpédonta jsa rozlícen.
 
 <section>
 
-                                                                      Achajce opět
+             Achajce opět
 
 </section>
 
@@ -3661,7 +3661,7 @@ ubohý! — —
 
 <section>
 
-                       Šetřiti měl slov zákazu přítele svého — —
+             Šetřiti měl slov zákazu přítele svého — —
 
 </section>
 
@@ -3879,7 +3879,7 @@ pobídnout koňskou spřež zas do bitvy. —
 
 <section>
 
-                                                                                Apollón zatím
+             Apollón zatím
 
 </section>
 

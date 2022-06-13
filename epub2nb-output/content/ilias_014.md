@@ -111,7 +111,7 @@ ve svatý Ília kraj.
 
 <section>
 
-                                 Bůh Apollón shlédnuv ji s Pergam,
+             Bůh Apollón shlédnuv ji s Pergam,
 
 </section>
 
@@ -619,7 +619,7 @@ včasnou domluvou svou — rek poslechl.
 
 <section>
 
-                                                                            Druhové jeho
+             Druhové jeho
 
 </section>
 
@@ -829,7 +829,7 @@ Takto je plísnil ten kmet:
 
 <section>
 
-                                                       Vtom vstalo jich celkově devět:
+             Vtom vstalo jich celkově devět:
 
 </section>
 
@@ -911,7 +911,7 @@ Tak děl kmet.
 
 <section>
 
-                                 Z nich každý si v los své znamení vyryl,
+             Z nich každý si v los své znamení vyryl,
 
 </section>
 
@@ -953,7 +953,7 @@ Aiantův.
 
 <section>
 
-                 Hlasatel hned jej nosil po řadě reků,
+             Hlasatel hned jej nosil po řadě reků,
 
 </section>
 
@@ -1289,7 +1289,7 @@ avšak sedmou koží byl zadržen.
 
 <section>
 
-                                                             Po druhé zase
+             Po druhé zase
 
 </section>
 
@@ -1749,7 +1749,7 @@ na pláni, společný všem.
 
 <section>
 
-                                               Hned za ním zbudujme rychle
+             Hned za ním zbudujme rychle
 
 </section>
 
@@ -1837,7 +1837,7 @@ Tak tedy Anténór pravil a usedl.
 
 <section>
 
-                                                               V středu jich povstal
+             V středu jich povstal
 
 </section>
 
@@ -1897,7 +1897,7 @@ Tak tedy Paris pravil a usedl.
 
 <section>
 
-                                                         V středu jich povstal
+             V středu jich povstal
 
 </section>
 
@@ -2163,7 +2163,7 @@ stanuv ve středu jejich.
 
 <section>
 
-                                             Tu všichni se chystali kvapně:
+             Tu všichni se chystali kvapně:
 
 </section>
 
@@ -2197,7 +2197,7 @@ stoupajíc k nebes výši.
 
 <section>
 
-                                             Ti v pláni se potkali spolu.
+             Ti v pláni se potkali spolu.
 
 </section>
 
@@ -2265,7 +2265,7 @@ na pláni, společný všem.
 
 <section>
 
-                                               Hned za ním zřídili rychle
+             Hned za ním zřídili rychle
 
 </section>
 

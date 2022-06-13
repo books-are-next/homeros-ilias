@@ -185,7 +185,7 @@ Pak teprv zalkal strašně.
 
 <section>
 
-                                                     Jej slyšela vznešená matka
+                      Jej slyšela vznešená matka
 
 </section>
 
@@ -437,7 +437,7 @@ stejně jak vlastní hlavy! —
 
 <section>
 
-                                                  Ten zahynul! — Výzbroj mu Hektór
+             Ten zahynul! — Výzbroj mu Hektór
 
 </section>
 
@@ -535,7 +535,7 @@ přispět v hodině smrti!
 
 <section>
 
-                                             Tak daleko od vlasti vzdálen
+                      Tak daleko od vlasti vzdálen
 
 </section>
 
@@ -715,7 +715,7 @@ oděn je na plecích sám, pln hrdosti. —
 
 <section>
 
-                                                                        Dlouho však, pravím,
+                         Dlouho však, pravím,
 
 </section>
 
@@ -781,7 +781,7 @@ jemu pak povězte všecko!
 
 <section>
 
-                                                  Já na Olymp vysoký nyní
+             Já na Olymp vysoký nyní
 
 </section>
 
@@ -825,7 +825,7 @@ Nohy ji na Olymp nesly.
 
 <section>
 
-                                                  Však zatím achajské mužstvo
+                   Však zatím achajské mužstvo
 
 </section>
 
@@ -1257,7 +1257,7 @@ Dvanáct šlechtických mužů tam tenkrát pozbylo žití
 
 ve zmatku vlastních vozův a oštěpů.
 
-                                                                Achajci zatím
+                       Achajci zatím
 
 </section>
 
@@ -1275,7 +1275,7 @@ pak jej na lůžko dali.
 
 <section>
 
-                                       Tu milí jej obstoupli druzi,
+             Tu milí jej obstoupli druzi,
 
 </section>
 
@@ -1529,7 +1529,7 @@ staneme na hradbách svých.
 
 <section>
 
-                                                       Pak běda mu, bude-li chtíti
+             Pak běda mu, bude-li chtíti
 
 </section>
 
@@ -1721,7 +1721,7 @@ V táboře večeři svou pak pojedli.
 
 <section>
 
-                                                                     Achajci zatím
+             Achajci zatím
 
 </section>
 
@@ -2155,7 +2155,7 @@ poněvadž jsem byl chromý.
 
 <section>
 
-                                                     Tu býval bych vytrpěl strasti,
+             Tu býval bych vytrpěl strasti,
 
 </section>
 
@@ -2207,7 +2207,7 @@ Ta teď přichází k nám.
 
 <section>
 
-                                                  Jest svatá povinnost moje
+                         Jest svatá povinnost moje
 
 </section>
 
@@ -2413,7 +2413,7 @@ Pro tu on velmi se trápil a kormoutil.
 
 <section>
 
-                                                                        Achajce zatím
+                         Achajce zatím
 
 </section>
 
@@ -2431,7 +2431,7 @@ nedalo vyjíti z nich.
 
 <section>
 
-                                      Pak přední ho prosili vůdci,
+             Pak přední ho prosili vůdci,
 
 </section>
 
@@ -2503,7 +2503,7 @@ od Tróů sklán.
 
 <section>
 
-                            Teď zármutku pln, syn na zemi leží.“
+             Teď zármutku pln, syn na zemi leží.“
 
 Na to jí přeslavný bůh zas pravil, dovedný mistr:
 
@@ -2547,7 +2547,7 @@ Pravil a nechal ji tam.
 
 <section>
 
-                                          Pak ke svým přikročil měchům,
+             Pak ke svým přikročil měchům,
 
 </section>
 
@@ -2595,7 +2595,7 @@ stříbro a vzácné zlato.
 
 <section>
 
-                                           Hned potom Héfaistos vložil
+             Hned potom Héfaistos vložil
 
 </section>
 

@@ -23,7 +23,7 @@ zranění přítele svého.
 
 <section>
 
-                                           A zatím válčili dále
+                         A zatím válčili dále
 
 </section>
 
@@ -227,7 +227,7 @@ z úderů.
 
 <section>
 
-                 Achajský lid, jenž Diovým bičem byl zdolán,
+               Achajský lid, jenž Diovým bičem byl zdolán,
 
 </section>
 
@@ -863,7 +863,7 @@ chránili, sebe i stanů.
 
 <section>
 
-                                          Tak sněhové padají vločky,
+             Tak sněhové padají vločky,
 
 </section>
 
@@ -1123,7 +1123,7 @@ obrátiv nazpět hlavu.
 
 <section>
 
-                                         Pták pustil jej od sebe na zem,
+             Pták pustil jej od sebe na zem,
 
 </section>
 
@@ -1315,7 +1315,7 @@ důvěru!!
 
 <section>
 
-                 Avšak těch já nedbám, aniž se starám,
+             Avšak těch já nedbám, aniž se starám,
 
 </section>
 
@@ -1389,7 +1389,7 @@ náramný činíce křik. —
 
 <section>
 
-                                             Vtom Kronovec, velitel blesků,
+             Vtom Kronovec, velitel blesků,
 
 </section>
 
@@ -1499,7 +1499,7 @@ Vždyť přec sami to snad již vidíte. —
 
 <section>
 
-                                                                       Velení mého
+             Velení mého
 
 </section>
 

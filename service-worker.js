@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-e348d80';
+const CACHE = 'cache-f34bee0';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./ilias_005.html","./ilias_006.html","./ilias_007.html","./ilias_008.html","./ilias_009.html","./ilias_010.html","./ilias_011.html","./ilias_012.html","./ilias_013.html","./ilias_014.html","./ilias_015.html","./ilias_016.html","./ilias_017.html","./ilias_018.html","./ilias_019.html","./ilias_020.html","./ilias_021.html","./ilias_022.html","./ilias_023.html","./ilias_024.html","./ilias_025.html","./ilias_026.html","./ilias_027.html","./ilias_028.html","./ilias_029.html","./ilias_030.html","./ilias_031.html","./ilias_032.html","./ilias_033.html","./ilias_034.html","./ilias_035.html","./ilias_036.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./template-images/circles.png","./scripts/bundle.js","./style/style.min.css"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./ilias_005.html","./ilias_006.html","./ilias_007.html","./ilias_008.html","./ilias_009.html","./ilias_010.html","./ilias_011.html","./ilias_012.html","./ilias_013.html","./ilias_014.html","./ilias_015.html","./ilias_016.html","./ilias_017.html","./ilias_018.html","./ilias_019.html","./ilias_020.html","./ilias_021.html","./ilias_022.html","./ilias_023.html","./ilias_024.html","./ilias_025.html","./ilias_026.html","./ilias_027.html","./ilias_028.html","./ilias_029.html","./ilias_030.html","./ilias_031.html","./ilias_032.html","./ilias_033.html","./ilias_034.html","./ilias_035.html","./ilias_036.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

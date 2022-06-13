@@ -149,7 +149,7 @@ jeden že ušel smrti a druhý je u vozu zabit,
 
 všechněm zachvěl se duch.
 
-                                              Vtom Pallas jiskrných zraků
+             Vtom Pallas jiskrných zraků
 
 </section>
 
@@ -1569,7 +1569,7 @@ strašlivým hlasem křiče.
 
 <section>
 
-                                                Syn Týdeův uchopil rukou
+             Syn Týdeův uchopil rukou
 
 </section>
 
@@ -2035,7 +2035,7 @@ překrásná Éeriboia.
 
 <section>
 
-                                       Ten vyvedl Area tajně,
+                     Ten vyvedl Area tajně,
 
 </section>
 
@@ -3171,7 +3171,7 @@ Padl, až duněla zem.
 
 <section>
 
-                                        Vtom statný přiskočil Aiás,
+             Vtom statný přiskočil Aiás,
 
 </section>
 
@@ -3369,7 +3369,7 @@ oběma dlouhá dřevce.
 
 <section>
 
-                                            Jej Sarpédón do středu hrdla
+             Jej Sarpédón do středu hrdla
 
 </section>
 
@@ -3439,7 +3439,7 @@ vláčeli z dosahu bitvy.
 
 <section>
 
-                                            To postřehnuv Odysseus slavný,
+             To postřehnuv Odysseus slavný,
 
 </section>
 
@@ -3511,7 +3511,7 @@ Danaům působě strach.
 
 <section>
 
-                                              Hned zplesal z příchodu jeho
+             Hned zplesal z příchodu jeho
 
 </section>
 
@@ -3767,7 +3767,7 @@ zlaté, připjala k němu.
 
 <section>
 
-                                            Tu pod jařmo přivedla Héré
+             Tu pod jařmo přivedla Héré
 
 </section>
 
@@ -4343,7 +4343,7 @@ bohyně, po boji prahnouc.
 
 <section>
 
-                                                  I zapraskla dubová osa
+             I zapraskla dubová osa
 
 </section>
 
@@ -4381,7 +4381,7 @@ Tomu tam krvavý bůh bral brnění.
 
 <section>
 
-                                                                   Athéné zatím
+             Athéné zatím
 
 </section>
 
@@ -4473,7 +4473,7 @@ Tam jej bodl a ranil a krásně tělo mu proťal,
 
 dřevce však vytáhl nazpět.
 
-                                             I zařval kovový Arés,
+                         I zařval kovový Arés,
 
 </section>
 

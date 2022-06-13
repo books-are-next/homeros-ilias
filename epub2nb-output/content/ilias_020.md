@@ -479,7 +479,7 @@ mněliť, že jistý je zmar již nemine.
 
 <section>
 
-                                                                   Zemětřas ovšem
+                     Zemětřas ovšem
 
 </section>
 
@@ -657,7 +657,7 @@ taký malátný boj! —
 
 <section>
 
-                                       Přec v duších probuďte smysl
+             Přec v duších probuďte smysl
 
 </section>
 
@@ -1065,7 +1065,7 @@ s těla mu svlékali zbroj.
 
 <section>
 
-                                              Pak s měkké šíje mu hlavu
+             Pak s měkké šíje mu hlavu
 
 </section>
 
@@ -1893,7 +1893,7 @@ usmrtilť Othryonéa.
 
 <section>
 
-                                       Byl v Íliu, Kabésan rodem,
+                         Byl v Íliu, Kabésan rodem,
 
 </section>
 
@@ -1943,7 +1943,7 @@ Padl, až duněla zem.
 
 <section>
 
-                                             Rek zajásav, toto mu pravil:
+             Rek zajásav, toto mu pravil:
 
 „Nejvíc, Othryonée, tě pochválím z veškerých lidí,
 
@@ -1999,7 +1999,7 @@ hrdinský krétský král.
 
 <section>
 
-                                            Jej přikvapil Ásios pomstít,
+             Jej přikvapil Ásios pomstít,
 
 </section>
 
@@ -2017,7 +2017,7 @@ takže mu dýchali do zad.
 
 <section>
 
-                                                 Ten z hlubin srdce si žádal
+             Ten z hlubin srdce si žádal
 
 </section>
 
@@ -2071,7 +2071,7 @@ nazpátek obrátil spřež.
 
 <section>
 
-                                             Syn Nestorův, statečný v boji,
+             Syn Nestorův, statečný v boji,
 
 </section>
 
@@ -2241,7 +2241,7 @@ Diem živený rek.
 
 <section>
 
-                                 Byl vladaře Anchísa zetěm,
+             Byl vladaře Anchísa zetěm,
 
 </section>
 
@@ -2271,7 +2271,7 @@ krásou, umělou prací i rozumem.
 
 <section>
 
-                                                                 Proto ji také
+             Proto ji také
 
 </section>
 
@@ -2507,7 +2507,7 @@ ačkoliv kvapně se rek hnal k útoku.
 
 <section>
 
-                                                                     Na druhy zvolal,
+             Na druhy zvolal,
 
 </section>
 
@@ -2725,7 +2725,7 @@ který se z Area zrodil.
 
 <section>
 
-                                           I projelo obrovské kopí
+                   I projelo obrovské kopí
 
 </section>
 
@@ -2807,7 +2807,7 @@ nazpět se v soudruhů dav zas navracel.
 
 <section>
 
-                                                                            Vtom však už bratra
+                         Vtom však už bratra
 
 </section>
 
@@ -2891,7 +2891,7 @@ Tu tedy celou proťal.
 
 <section>
 
-                                         On naznak do prachu padl,
+             On naznak do prachu padl,
 
 </section>
 
@@ -3219,7 +3219,7 @@ vyrazil na Peisandra.
 
 <section>
 
-                                         Ten zpod štítu vytáhl pěknou
+                        Ten zpod štítu vytáhl pěknou
 
 </section>
 
@@ -3237,7 +3237,7 @@ dlouhé, hlazené krásně.
 
 <section>
 
-                                               Ti v stejnou se srazili chvíli:
+             Ti v stejnou se srazili chvíli:
 
 </section>
 
@@ -3261,7 +3261,7 @@ nad nosem bodl jej v čelo.
 
 <section>
 
-                                                   I praskly mu kosti a k nohám
+             I praskly mu kosti a k nohám
 
 </section>
 
@@ -4031,7 +4031,7 @@ Kdepak je Othryoneus?! — —
 
 <section>
 
-                                                        Toť Ílion zbořeno strmé,
+             Toť Ílion zbořeno strmé,
 
 </section>
 
@@ -4299,7 +4299,7 @@ osmělen znamením tím.
 
 <section>
 
-                                               Však statný mu odvětil Hektór:
+             Však statný mu odvětil Hektór:
 
 „Aiante, prázdný mluvko, ty chlubiči, cožes to řekl!?
 

@@ -147,7 +147,7 @@ odejít k Átreovci.
 
 <section>
 
-                                   Lid v bitvě se vzájemně vraždil,
+               Lid v bitvě se vzájemně vraždil,
 
 </section>
 
@@ -173,7 +173,7 @@ všechněm, kdo raněni byli.
 
 <section>
 
-                                                     Teď kráčeli od lodí právě,
+               Teď kráčeli od lodí právě,
 
 </section>
 
@@ -241,7 +241,7 @@ smutkem sklíčeno bylo.
 
 <section>
 
-                                              Vtom stařec potkal se s nimi,
+             Vtom stařec potkal se s nimi,
 
 </section>
 
@@ -685,7 +685,7 @@ zámožném hojným jměním:
 
 <section>
 
-                                                      Mělť orných pozemků mnoho,
+             Mělť orných pozemků mnoho,
 
 </section>
 
@@ -857,7 +857,7 @@ s vrcholu olympské hory, kamž vystoupla:
 
 <section>
 
-                                                                                  Seznala ihned,
+             Seznala ihned,
 
 </section>
 
@@ -1377,7 +1377,7 @@ rozliv se mámivě kol.
 
 <section>
 
-                                         Ty’s v duši mu smyslila zhoubu,
+             Ty’s v duši mu smyslila zhoubu,
 
 </section>
 
@@ -1401,7 +1401,7 @@ daleko od přátel všech.
 
 <section>
 
-                                             Zeus procitnuv, nesmírně zuřil,
+             Zeus procitnuv, nesmírně zuřil,
 
 </section>
 
@@ -2171,7 +2171,7 @@ tyto pak jemné tělo mu spasily.
 
 <section>
 
-                                                            Vzplanul tu Hektór
+                         Vzplanul tu Hektór
 
 </section>
 
@@ -2203,7 +2203,7 @@ podloh to korábů rychlých, tam válelo.
 
 <section>
 
-                                                                           Jeden z nich zvednuv,
+             Jeden z nich zvednuv,
 
 </section>
 
@@ -2659,7 +2659,7 @@ hlavu, a přilbici s ní.
 
 <section>
 
-                                        Ten velký dosavad oštěp
+             Ten velký dosavad oštěp
 
 </section>
 

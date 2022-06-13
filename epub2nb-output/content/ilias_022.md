@@ -37,7 +37,7 @@ zahnáni, hrůzou bledí.
 
 <section>
 
-                                           Tu Kronovec procitnuv povstal
+              Tu Kronovec procitnuv povstal
 
 </section>
 
@@ -149,7 +149,7 @@ sotvaže popadal dech.
 
 <section>
 
-                                            Však trvalá bolest ni takto
+             Však trvalá bolest ni takto
 
 </section>
 
@@ -345,7 +345,7 @@ jimiž ve hrudi své jest sužován.
 
 <section>
 
-                                                             Achajské vojsko
+             Achajské vojsko
 
 </section>
 
@@ -1581,7 +1581,7 @@ naproti trójským vojům a Hektoru.
 
 <section>
 
-                                                                     Za jejich zády
+             Za jejich zády
 
 </section>
 
@@ -2105,7 +2105,7 @@ Nohy jej k Achillu nesly, když domluvil.
 
 <section>
 
-                                                                                 Útoky Tróů
+                         Útoky Tróů
 
 </section>
 
@@ -2391,7 +2391,7 @@ Hektora.
 
 <section>
 
-                 Tenkrát by boj byl najisto u lodí skončil,
+             Tenkrát by boj byl najisto u lodí skončil,
 
 </section>
 
@@ -2833,7 +2833,7 @@ mrštěn s prudkostí vpřed.
 
 <section>
 
-                                                   Rek na tvář poraněn padl.
+                Rek na tvář poraněn padl.
 
 </section>
 
@@ -2851,7 +2851,7 @@ s plecí.
 
 <section>
 
-              Tu příbuzným svým rek Hektór domlouval všechněm,
+             Tu příbuzným svým rek Hektór domlouval všechněm,
 
 </section>
 
@@ -2961,7 +2961,7 @@ domluvu k srdci si vzal, pak bez dlení kovovou hradbou
 
 sevřel koráby kol.
 
-                             Zeus Trójany pobídl na ně.
+             Zeus Trójany pobídl na ně.
 
 Povzbuzen od Átreovce syn Nestorův, statného reka:
 
@@ -3001,7 +3001,7 @@ bystře se rozhlédnuv kol.
 
 <section>
 
-                                                 Hned couvali Trójané před ním,
+             Hned couvali Trójané před ním,
 
 </section>
 
@@ -3053,7 +3053,7 @@ aby ti odňal zbroj.
 
 <section>
 
-                                   Však slavný Hektór to spatřiv,
+             Však slavný Hektór to spatřiv,
 
 </section>
 
@@ -3341,7 +3341,7 @@ zadáví — druhý se skot dá na útěk.
 
 <section>
 
-                                                                 Podobně prchlo
+             Podobně prchlo
 
 </section>
 
@@ -3615,7 +3615,7 @@ stanův a korábův svých být ochranou.
 
 <section>
 
-                                                                         Ale ni Hektór
+                       Ale ni Hektór
 
 </section>
 

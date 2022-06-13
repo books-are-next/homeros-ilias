@@ -1107,7 +1107,7 @@ každého úrazu prost…
 
 <section>
 
-                                            Ten velkou pod nebem slávu
+             Ten velkou pod nebem slávu
 
 </section>
 
@@ -1119,7 +1119,7 @@ po všem lidstvu by měl…
 
 <section>
 
-                                                 Též dostane odměnu vzácnou:
+             Též dostane odměnu vzácnou:
 
 </section>
 
@@ -1445,7 +1445,7 @@ volavku poblíž cesty.
 
 <section>
 
-                                         Sic nemohli vidět ji zrakem,
+             Sic nemohli vidět ji zrakem,
 
 </section>
 
@@ -2177,7 +2177,7 @@ podál od vřavy vojska.
 
 <section>
 
-                                            Co ptal ses po hlídkách, reku,
+                  Co ptal ses po hlídkách, reku,
 
 </section>
 
@@ -2717,7 +2717,7 @@ vzácný příbuzný Rhésův.
 
 <section>
 
-                                                 Ten procitl ze spánku náhle:
+                    Ten procitl ze spánku náhle:
 
 </section>
 

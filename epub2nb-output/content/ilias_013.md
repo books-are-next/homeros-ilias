@@ -193,7 +193,7 @@ v Pédasu, strmém městě.
 
 <section>
 
-                                                 Byl Fylakos Léitem zabit,
+                        Byl Fylakos Léitem zabit,
 
 </section>
 
@@ -835,7 +835,7 @@ Sísyfos, Aiolův syn.
 
 <section>
 
-                                     Rek Glaukos z něho se zrodil,
+             Rek Glaukos z něho se zrodil,
 
 </section>
 
@@ -1463,7 +1463,7 @@ chtěl-li by, vyzván jsa mnou, být poslušen. —
 
 <section>
 
-                                                                                      Kéž ho tu raděj
+             Kéž ho tu raděj
 
 </section>
 
@@ -2127,7 +2127,7 @@ společným útokem svým. —
 
 <section>
 
-                                                      Ó kdybych ztratila tebe,
+             Ó kdybych ztratila tebe,
 
 </section>
 
@@ -2169,7 +2169,7 @@ vysokobrannou to Thébu.
 
 <section>
 
-                                                  Tam usmrtil Éetióna,
+             Tam usmrtil Éetióna,
 
 </section>
 
@@ -2527,7 +2527,7 @@ slzíc, s úsměvem na rtech.
 
 <section>
 
-                                                   I pojal manžela soucit,
+             I pojal manžela soucit,
 
 </section>
 
@@ -2595,7 +2595,7 @@ pozvedl zas.
 
 <section>
 
-                        Však milená choť již kráčela domů,
+             Však milená choť již kráčela domů,
 
 </section>
 
@@ -2755,7 +2755,7 @@ kteří tolik tu trampot, jen pro tebe, musejí snášet.
 
 Pojďme však už! — Vždyť pozděj to spravíme, jestliže Zeus
 
-                                                                                                              kdy
+             kdy
 
 </section>
 
