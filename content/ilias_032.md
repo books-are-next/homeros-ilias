@@ -17,7 +17,7 @@ Oni tak po celém městě tam kvílili.
 
 <section>
 
-                                                                   Achajské mužstvo,
+                         Achajské mužstvo,
 
 </section>
 
@@ -153,7 +153,7 @@ do prachu.
 
 <section>
 
-                    Každý muž své brnění s těla si svlékal,
+             Každý muž své brnění s těla si svlékal,
 
 </section>
 
@@ -489,7 +489,7 @@ bláhový hoch, byť nechtě, když při kostkách vzplanul jsem
 
 <section>
 
-                                                                                              hněvem! — —
+             hněvem! — —
 
 </section>
 
@@ -557,7 +557,7 @@ avšak nechytil nic, neb duše se ztratila šustíc
 
 pod zem jak dým! — —
 
-                                     On podivu pln hned procitl ze sna,
+             On podivu pln hned procitl ze sna,
 
 </section>
 
@@ -601,7 +601,7 @@ Když tak plakali žalně kol mrtvého druhova těla,
 
 Zora vtom růžových prstů již povstala.
 
-                                                                    Vládyka mocný
+             Vládyka mocný
 
 </section>
 
@@ -691,7 +691,7 @@ hromadně usedli všichni a čekali.
 
 <section>
 
-                                                                 Achilleus zatím
+                         Achilleus zatím
 
 </section>
 
@@ -981,7 +981,7 @@ Takovou pohrůžku děl. — —
 
 <section>
 
-                                                     Však Hektora nežrali psové,
+             Však Hektora nežrali psové,
 
 </section>
 
@@ -1059,7 +1059,7 @@ přijít, by vzplanulo dříví, ať všecky ty mrtvoly na něm
 
 kvapem v plameni tom jsou spáleny.
 
-                                                                Rekovy prosby
+             Rekovy prosby
 
 </section>
 
@@ -1089,7 +1089,7 @@ na jejich kamenném prahu. —
 
 <section>
 
-                                                         Ti Íridu s radostí zhlédše,
+             Ti Íridu s radostí zhlédše,
 
 </section>
 
@@ -1143,7 +1143,7 @@ Potom se vzdálila zas, když skončila.
 
 <section>
 
-                                                                            Větry se hnaly,
+                    Větry se hnaly,
 
 </section>
 
@@ -1181,7 +1181,7 @@ vzplanulý — po celou noc pak společně fučíce prudce
 
 <section>
 
-                                         Syn Péleův, hrdina rychlý,
+             Syn Péleův, hrdina rychlý,
 
 </section>
 
@@ -1387,7 +1387,7 @@ Když pak zřídili hrobku, zas odešli.
 
 <section>
 
-                                                                         Achilleus rychlý
+             Achilleus rychlý
 
 </section>
 
@@ -1633,7 +1633,7 @@ rychlí, táhli mu vůz.
 
 <section>
 
-                                      Vtom Nestór přistoupiv k němu,
+                      Vtom Nestór přistoupiv k němu,
 
 </section>
 
@@ -1883,7 +1883,7 @@ zapřahal.
 
 <section>
 
-                 Vystoupli na vůz a vložili do přilby losy:
+             Vystoupli na vůz a vložili do přilby losy:
 
 </section>
 
@@ -1895,7 +1895,7 @@ losoval Achilleus sám.
 
 <section>
 
-                                           Syn Nestora Néléovce
+             Syn Nestora Néléovce
 
 </section>
 
@@ -2961,7 +2961,7 @@ rozzloben na Antilocha, pln hořkosti.
 
 <section>
 
-                                                                       Ihned mu hérold
+                         Ihned mu hérold
 
 </section>
 
@@ -3111,7 +3111,7 @@ vladaři živený Diem, a před bohy ve hříchu býti.“
 
 v ruce ji Átreovci chtěl odevzdat.
 
-                                                         Vládci tu ihned
+             Vládci tu ihned
 
 </section>
 
@@ -3215,7 +3215,7 @@ koflík se dvěma uchy.
 
 <section>
 
-                                         Ten Achilleus Nestoru určil:
+             Ten Achilleus Nestoru určil:
 
 </section>
 
@@ -3451,7 +3451,7 @@ vysoko zvednout pěsti a biti se.
 
 <section>
 
-                                                             Komu by Foibos
+             Komu by Foibos
 
 </section>
 
@@ -3603,7 +3603,7 @@ proudem valil se pot.
 
 <section>
 
-                                         Vtom vztyčiv se Epeios slavný,
+             Vtom vztyčiv se Epeios slavný,
 
 </section>
 
@@ -3955,7 +3955,7 @@ od šraňků běh jim vyměřen byl.
 
 <section>
 
-                                                             Vtom vyrazil napřed
+             Vtom vyrazil napřed
 
 </section>
 
@@ -4383,7 +4383,7 @@ Pořadím stanuli všichni.
 
 <section>
 
-                                                     Vzal kotouč Epeios slavný:
+             Vzal kotouč Epeios slavný:
 
 </section>
 
@@ -4477,7 +4477,7 @@ za nohu plachý holub byl přivázán.
 
 <section>
 
-                                                                   Na toho velel
+             Na toho velel
 
 </section>
 
@@ -4509,7 +4509,7 @@ Tak tedy Achilleus děl.
 
 <section>
 
-                                                 Vstal silný vládyka Teukros,
+             Vstal silný vládyka Teukros,
 
 </section>
 
@@ -4529,7 +4529,7 @@ Teukrův nejprve los z ní vyskočil.
 
 <section>
 
-                                                                 Z luku tu ihned
+             Z luku tu ihned
 
 </section>
 
@@ -4669,7 +4669,7 @@ který cenu měl býka.
 
 <section>
 
-                                        I povstali oštěpníci:
+             I povstali oštěpníci:
 
 </section>
 
@@ -4727,7 +4727,7 @@ bronzový oštěp tedy dán sokovi.
 
 <section>
 
-                                                               Vládyka lidu
+             Vládyka lidu
 
 </section>
 

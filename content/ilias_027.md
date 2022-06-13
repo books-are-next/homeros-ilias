@@ -41,7 +41,7 @@ slzeli s ním.
 
 <section>
 
-                       V jich střed vtom vstoupí bohyně jasná,
+             V jich střed vtom vstoupí bohyně jasná,
 
 </section>
 
@@ -89,7 +89,7 @@ Všechen tu Achillův lid jat zděšením, odvahy neměl
 
 <section>
 
-                                                                Sotva ji zhlédl
+                         Sotva ji zhlédl
 
 </section>
 
@@ -353,7 +353,7 @@ vložil, zdvihnuv ji rukou.
 
 <section>
 
-                                                Jak na nebi hvězda se leskla
+                Jak na nebi hvězda se leskla
 
 </section>
 

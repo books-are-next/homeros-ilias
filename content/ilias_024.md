@@ -63,7 +63,7 @@ hrdiny Patrokla pád.
 
 <section>
 
-                                        Ten přistoupiv, u něho stanul,
+                  Ten přistoupiv, u něho stanul,
 
 </section>
 
@@ -259,7 +259,7 @@ avšak neprojel kov — hrot kopí nazpět se ohnul
 
 o jeho silný štít.
 
-                          Pak druhý se rozehnal kopím
+             Pak druhý se rozehnal kopím
 
 </section>
 
@@ -605,7 +605,7 @@ křikem a oštěpy svými.
 
 <section>
 
-                                              Tu v prsou jí zmužilé srdce
+             Tu v prsou jí zmužilé srdce
 
 </section>
 
@@ -915,7 +915,7 @@ Takhle však pohanět musím tvůj nerozum!
 
 <section>
 
-                                                                                   Cože’s to řekl!?
+             Cože’s to řekl!?
 
 </section>
 
@@ -1403,7 +1403,7 @@ za hradbou kovaných štítů.
 
 <section>
 
-                                                     A zároveň nad nimi všemi
+             A zároveň nad nimi všemi
 
 </section>
 
@@ -1455,7 +1455,7 @@ tělo však hleděli vzít.
 
 <section>
 
-                                         Však Danajci neměli dlouho
+                         Však Danajci neměli dlouho
 
 </section>
 
@@ -1683,7 +1683,7 @@ sílou a statností svou.
 
 <section>
 
-                                           Vtom podnítil Apollón Foibos
+             Vtom podnítil Apollón Foibos
 
 </section>
 
@@ -1877,7 +1877,7 @@ Tyto jim obrovský rek dal rozkazy.
 
 <section>
 
-                                                                         Země se dole
+                     Země se dole
 
 </section>
 
@@ -1953,7 +1953,7 @@ po celé zemi ni v horách.
 
 <section>
 
-                                                 Tam činili přestávky v boji,
+             Tam činili přestávky v boji,
 
 </section>
 
@@ -1971,7 +1971,7 @@ stojíce daleko sebe.
 
 <section>
 
-                                      Ti ve středu snášeli strasti,
+             Ti ve středu snášeli strasti,
 
 </section>
 
@@ -1985,7 +1985,7 @@ bitvou a hustým vzduchem a tvrdým týráni kovem,
 
 kteří nejlepší byli.
 
-                             Dva bratrové neměli ještě
+             Dva bratrové neměli ještě
 
 </section>
 
@@ -2119,7 +2119,7 @@ před nimi rozestřel Zeus.
 
 <section>
 
-                                                 Však dosud potuchy neměl
+             Však dosud potuchy neměl
 
 </section>
 
@@ -2143,7 +2143,7 @@ pod samou trójskou zdí.
 
 <section>
 
-                                               Však naprosto na mysli neměl,
+             Však naprosto na mysli neměl,
 
 </section>
 
@@ -2399,7 +2399,7 @@ k achajským korábům dutým.
 
 <section>
 
-                                                          Jim ještě dám vítězství v boji,
+             Jim ještě dám vítězství v boji,
 
 </section>
 
@@ -2561,7 +2561,7 @@ Seskočil Achillův druh.
 
 <section>
 
-                                            Vtom statný Hektór ho zočiv,
+             Vtom statný Hektór ho zočiv,
 
 </section>
 
@@ -3177,7 +3177,7 @@ Trójané.
 
 <section>
 
-                Ídomenéa chtěl kopím zasáhnout Hektór,
+             Ídomenéa chtěl kopím zasáhnout Hektór,
 
 </section>
 
@@ -3451,7 +3451,7 @@ celou probdíce noc.
 
 <section>
 
-                                      Lev po mase velice dychtě,
+                  Lev po mase velice dychtě,
 
 </section>
 
@@ -3615,7 +3615,7 @@ vítězství Trójanům dav.
 
 <section>
 
-                                              Jest nejlepší z Danaů zabit,
+             Jest nejlepší z Danaů zabit,
 
 </section>
 
@@ -3785,7 +3785,7 @@ do velmi velké výše.
 
 <section>
 
-                                       I křičelo zezadu mužstvo
+                        I křičelo zezadu mužstvo
 
 </section>
 

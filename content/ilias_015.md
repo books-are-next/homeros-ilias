@@ -339,7 +339,7 @@ oděných v kovovou zbroj.
 
 <section>
 
-                                                   Jim v prostředku vypouklé štíty
+             Jim v prostředku vypouklé štíty
 
 </section>
 
@@ -493,7 +493,7 @@ Hektora.
 
 <section>
 
-                  Tehdy by kmet byl pozbyl života jistě —
+             Tehdy by kmet byl pozbyl života jistě —
 
 </section>
 
@@ -1063,7 +1063,7 @@ veškeren achajský lid již vstoupí na lodi rychlé.“
 
 Tak tam prohlásil s chloubou.
 
-                                                    I vzkypěla vznešená Héré,
+             I vzkypěla vznešená Héré,
 
 </section>
 
@@ -2491,7 +2491,7 @@ neboť to velí osud.
 
 <section>
 
-                                     Mně záleží náramně málo
+             Mně záleží náramně málo
 
 </section>
 
@@ -2515,7 +2515,7 @@ navěky vězněni jsou.
 
 <section>
 
-                                         Jich neblaží vánek ni záře
+              Jich neblaží vánek ni záře
 
 </section>
 
@@ -2659,7 +2659,7 @@ chutné víno a chléb.
 
 <section>
 
-                                        Pak hojnost sbírejte dříví,
+             Pak hojnost sbírejte dříví,
 
 </section>
 
@@ -2835,7 +2835,7 @@ až bude vycházet slunce, hned za jitra.
 
 <section>
 
-                                                                          Kéž bych tak jistě
+                         Kéž bych tak jistě
 
 </section>
 

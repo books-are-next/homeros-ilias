@@ -55,7 +55,7 @@ Létin a Diův syn.
 
 <section>
 
-                                Ten na krále zanevřev hněvem,
+             Ten na krále zanevřev hněvem,
 
 </section>
 
@@ -363,7 +363,7 @@ Tak tedy Achilleus pravil a usedl.
 
 <section>
 
-                                                                      V středu jich povstal
+                   V středu jich povstal
 
 </section>
 
@@ -547,7 +547,7 @@ Tak tedy Kalchás pravil a usedl.
 
 <section>
 
-                                                                   V středu jich povstal
+             V středu jich povstal
 
 </section>
 
@@ -1333,7 +1333,7 @@ pobitou zlatými nýtky kol dokola, sám ale sedl.
 
 <section>
 
-                                                             V jich středu tu povstal
+                         V jich středu tu povstal
 
 </section>
 
@@ -1463,7 +1463,7 @@ S Kentaury v boj jsem pustil se sám.
 
 <section>
 
-                                                                            Ó, s těmi by nikdo
+                         Ó, s těmi by nikdo
 
 </section>
 
@@ -1679,7 +1679,7 @@ dým až k nebesům stoupal a v kouři se do kruhu točil.
 
 Tím teď v táboře lid byl zaměstnán. —
 
-                                                                          Vládyka lidu
+                         Vládyka lidu
 
 </section>
 
@@ -1835,7 +1835,7 @@ tu pak héroldům vydal.
 
 <section>
 
-                                             Ti odešli k achajským lodím,
+                         Ti odešli k achajským lodím,
 
 </section>
 
@@ -1849,7 +1849,7 @@ dívčina s nechutí velkou šla s průvodci.
 
 <section>
 
-                                                                       Ale pak rázem
+             Ale pak rázem
 
 </section>
 
@@ -1905,7 +1905,7 @@ Tak k ní promluvil s pláčem.
 
 <section>
 
-                                                              Jej slyšela vznešená matka
+             Jej slyšela vznešená matka
 
 </section>
 
@@ -2029,7 +2029,7 @@ Kněz pak, roznícen hněvem, šel nazpátek.
 
 <section>
 
-                                                                                Modlitbu jeho
+             Modlitbu jeho
 
 </section>
 
@@ -2059,7 +2059,7 @@ hustě druh za druhem zmíral. I lítaly bohovy střely
 
 <section>
 
-                                           Tu Kalchás, výborný věštec,
+             Tu Kalchás, výborný věštec,
 
 </section>
 
@@ -2289,7 +2289,7 @@ Takto se ozvala k němu a odešla.
 
 <section>
 
-                                                                       Syna tam svého
+             Syna tam svého
 
 </section>
 
@@ -2303,7 +2303,7 @@ nechala s hněvem v srdci, že násilím, naproti vůli,
 
 dívčina s krásným pásem mu odňata.
 
-                                                                   Odysseus zatím
+             Odysseus zatím
 
 </section>
 
@@ -2395,7 +2395,7 @@ nazpět milenou dceru.
 
 <section>
 
-                                            Ti svatou slavnostní žertvu
+             Ti svatou slavnostní žertvu
 
 </section>
 
@@ -2633,7 +2633,7 @@ všichni a v čele jich Zeus.
 
 <section>
 
-                                                  Však Thetidě nevyšlo z mysli,
+             Však Thetidě nevyšlo z mysli,
 
 </section>
 
@@ -2721,7 +2721,7 @@ sedělť a dlouho byl tich.
 
 <section>
 
-                                               Však Thetis těsněji ještě
+             Však Thetis těsněji ještě
 
 </section>
 
@@ -2829,7 +2829,7 @@ Zeus šel v obydlí své.
 
 <section>
 
-                                          Hned povstali bohové všichni
+             Hned povstali bohové všichni
 
 </section>
 
@@ -2853,7 +2853,7 @@ Tak tam na své křeslo se posadil.
 
 <section>
 
-                                                                Dobře však Héré
+             Dobře však Héré
 
 </section>
 

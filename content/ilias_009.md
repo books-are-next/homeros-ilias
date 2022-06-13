@@ -197,7 +197,7 @@ od Dia.
 
 <section>
 
-                 Ve své mysli to zachovej, aby to potom
+             Ve své mysli to zachovej, aby to potom
 
 </section>
 
@@ -401,7 +401,7 @@ od Dia. — Ve své mysli to zachovej!‘
 
 <section>
 
-                                                                    Toto mi praviv,
+             Toto mi praviv,
 
 </section>
 
@@ -435,7 +435,7 @@ Takto jim vladař pravil a usedl.
 
 <section>
 
-                                                                    V středu jich povstal
+                         V středu jich povstal
 
 </section>
 
@@ -531,7 +531,7 @@ po tlupách do schůze lidu.
 
 <section>
 
-                                                   A Diova poslice, Pověst,
+             A Diova poslice, Pověst,
 
 </section>
 
@@ -571,7 +571,7 @@ přestav hlučeti již.
 
 <section>
 
-                                     Vtom přemocný vládyka mužstva
+             Vtom přemocný vládyka mužstva
 
 </section>
 
@@ -1203,7 +1203,7 @@ neboť je tupíval zvlášť.
 
 <section>
 
-                                             Však tenkrát se vládyku mužstva,
+             Však tenkrát se vládyku mužstva,
 
 </section>
 
@@ -1269,7 +1269,7 @@ kterou pro sebe zvlášť bys podržel?
 
 <section>
 
-                                                                     Není však hezké,
+             Není však hezké,
 
 </section>
 
@@ -1295,7 +1295,7 @@ v Tróji — by tyhle své dary moh’ stráviti!
 
 <section>
 
-                                                                              — Bude pak vidět,
+             — Bude pak vidět,
 
 </section>
 
@@ -1339,7 +1339,7 @@ Tak tedy potupnou řečí i samému vladaři mužstva
 
 takový „Thersítés“ lál!
 
-                                       Vtom přiskočil Odysseus slavný,
+             Vtom přiskočil Odysseus slavný,
 
 </section>
 
@@ -1461,7 +1461,7 @@ praštil.
 
 <section>
 
-              On celý se zkroutil, a slzy mu vyhrkly proudem,
+             On celý se zkroutil, a slzy mu vyhrkly proudem,
 
 </section>
 
@@ -1479,7 +1479,7 @@ pod ranou zlatého žezla.
 
 <section>
 
-                                                On sedl a hrůzou se zachvěl,
+             On sedl a hrůzou se zachvěl,
 
 </section>
 
@@ -1533,7 +1533,7 @@ Tak tam hovořil lid.
 
 <section>
 
-                                             Vtom povstal, v pravici žezlo,
+             Vtom povstal, v pravici žezlo,
 
 </section>
 
@@ -2589,7 +2589,7 @@ na pochod v lítou seč.
 
 <section>
 
-                                            V jich středu syn Átreův mocný
+                      V jich středu syn Átreův mocný
 
 </section>
 
@@ -3177,7 +3177,7 @@ nad loďmi nad šedesáti.
 
 <section>
 
-                                               Ti zvláštní tvořili vojsko,
+                 Ti zvláštní tvořili vojsko,
 
 </section>
 
@@ -3759,7 +3759,7 @@ zůstal i bezdětný dům.
 
 <section>
 
-                                             Jej zabil dardanský vojín,
+             Jej zabil dardanský vojín,
 
 </section>
 

@@ -29,7 +29,7 @@ hasil a vysoušel pot.
 
 <section>
 
-                                       Tou dobou danajské mužstvo
+             Tou dobou danajské mužstvo
 
 </section>
 
@@ -63,7 +63,7 @@ boha mě nesmrtného, sám smrtelný? —
 
 <section>
 
-                                                                            Copak’s mě ještě
+             Copak’s mě ještě
 
 </section>
 
@@ -209,7 +209,7 @@ prosil, hlasitě vzkřiknuv. —
 
 <section>
 
-                                                    Ten stál tam před branou městskou,
+             Ten stál tam před branou městskou,
 
 </section>
 
@@ -259,7 +259,7 @@ bez pohřbu!! — —
 
 <section>
 
-                                 Hrozná bolest by spadla mi ze srdce mého! —
+             Hrozná bolest by spadla mi ze srdce mého! —
 
 </section>
 
@@ -351,7 +351,7 @@ dokud jsem při smyslech ještě!
 
 <section>
 
-                                                           Mě Kronovec na prahu stáří
+             Mě Kronovec na prahu stáří
 
 </section>
 
@@ -419,7 +419,7 @@ ti se mou napojí krví, a potom zmámeni v duši,
 
 ležet v předsíni budou. —
 
-                                           Jest krásné při mládci všecko,
+             Jest krásné při mládci všecko,
 
 </section>
 
@@ -491,7 +491,7 @@ lítému muži se braň — však sám s ním nevcházej v souboj!
 
 Strašný to muž!! — —
 
-                                          Vždyť kdyby tě sklál, již nebudu nad tvým
+             Vždyť kdyby tě sklál, již nebudu nad tvým
 
 </section>
 
@@ -747,7 +747,7 @@ uzříme, kterému z nás bůh Olympský propůjčí slávu.“
 
 Přemýšlel takto a čekal. — —
 
-                                                       Tu Achilleus přišel až k němu,
+                         Tu Achilleus přišel až k němu,
 
 </section>
 
@@ -957,7 +957,7 @@ honěn je okolo zdí!
 
 <section>
 
-                                     Já ve svém srdci ho želím,
+             Já ve svém srdci ho želím,
 
 </section>
 
@@ -1501,7 +1501,7 @@ za ním pak zatklo se v půdu.
 
 <section>
 
-                                                       Je vytrhši Achillu dala
+             Je vytrhši Achillu dala
 
 </section>
 
@@ -1585,7 +1585,7 @@ v dálku se odrazil oň hrot Hektorův. —
 
 <section>
 
-                                                                          Hrdina vzplanul
+                         Hrdina vzplanul
 
 </section>
 
@@ -1831,7 +1831,7 @@ který tě zbavil žití.
 
 <section>
 
-                                    Teď tebe tu psové a ptáci
+             Teď tebe tu psové a ptáci
 
 </section>
 
@@ -2209,7 +2209,7 @@ Celou mu hlavu kryl prach kol dokola.
 
 <section>
 
-                                                                         Matka pak jeho
+             Matka pak jeho
 
 </section>
 
@@ -2325,7 +2325,7 @@ jako teď nad tím jedním — svým Hektorem — — zármutek ostrý
 
 svrhne mě v Hádův dům. — —
 
-                                                   Kéž v náručí byl by mi zemřel!
+             Kéž v náručí byl by mi zemřel!
 
 </section>
 
@@ -2381,7 +2381,7 @@ dokuďs byl živ, teď krutá tě smrt však stihla i osud!“
 
 Tak tam pravila s pláčem. —
 
-                                                       Však potuchy neměla dosud
+             Však potuchy neměla dosud
 
 </section>
 
@@ -2609,7 +2609,7 @@ nešťastnou, nebohý sám. —
 
 <section>
 
-                                                     Ó kéž by mě nebýval zplodil!!
+             Ó kéž by mě nebýval zplodil!!
 
 </section>
 
@@ -2639,7 +2639,7 @@ jemuž dali jsme život, my ubozí! — —
 
 <section>
 
-                                                                      Nebudeš nikdy,
+             Nebudeš nikdy,
 
 </section>
 

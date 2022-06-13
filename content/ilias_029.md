@@ -39,7 +39,7 @@ Tudy se valili v zmatku, a Héré, chtějíc je zdržet,
 
 před oči hustý vzduch jim prostřela.
 
-                                                               Druhý pak oddíl
+             Druhý pak oddíl
 
 </section>
 
@@ -139,7 +139,7 @@ podobně trójský lid pln hrůzy se pod břehy choulil,
 
 v proudech té hrozné řeky.
 
-                                              Když ruce mu zemdlely vraždou,
+             Když ruce mu zemdlely vraždou,
 
 </section>
 
@@ -191,7 +191,7 @@ právě když prchal z vody.
 
 <section>
 
-                                                  Sám Achilleus kdysi už dříve
+             Sám Achilleus kdysi už dříve
 
 </section>
 
@@ -209,7 +209,7 @@ v noční se vypraviv čas.
 
 <section>
 
-                                              Ten řezal z planého fíku
+             Ten řezal z planého fíku
 
 </section>
 
@@ -357,7 +357,7 @@ Přemýšlel takto a čekal.
 
 <section>
 
-                                                    On vyděšen přišel až k němu,
+                         On vyděšen přišel až k němu,
 
 </section>
 
@@ -383,7 +383,7 @@ dychtiv zabíti jej.
 
 <section>
 
-                                 Ten podběhnuv, nohy mu objal,
+                        Ten podběhnuv, nohy mu objal,
 
 </section>
 
@@ -473,7 +473,7 @@ jenž mě ti opět vydal. —
 
 <section>
 
-                                              Jen pro život nadmíru krátký
+             Jen pro život nadmíru krátký
 
 </section>
 
@@ -651,7 +651,7 @@ do krku, u klíční kosti, jej zabodl. —
 
 <section>
 
-                                                                    Celý se dovnitř
+             Celý se dovnitř
 
 </section>
 
@@ -663,7 +663,7 @@ ponořil dvojsečný meč.
 
 <section>
 
-                                             Ten tváří na zemi ležel,
+             Ten tváří na zemi ležel,
 
 </section>
 
@@ -799,7 +799,7 @@ Na něj se Achilleus vrhl. —
 
 <section>
 
-                                                        Ten z řeky mu naproti povstal
+             Ten z řeky mu naproti povstal
 
 </section>
 
@@ -953,7 +953,7 @@ Potom broušený meč však vytasiv od statné kyčle
 
 divoce vyrazil naň.
 
-                              Ten nemohl z příkrého břehu
+             Ten nemohl z příkrého břehu
 
 </section>
 
@@ -1007,7 +1007,7 @@ chroptícímu.
 
 <section>
 
-                         Tu na jeho hruď syn Péleův stoupnuv,
+             Tu na jeho hruď syn Péleův stoupnuv,
 
 </section>
 
@@ -1279,7 +1279,7 @@ s pobřeží v říční střed. —
 
 <section>
 
-                                                 Bůh vyrazil, vzdouval se, zuřil,
+              Bůh vyrazil, vzdouval se, zuřil,
 
 </section>
 
@@ -1325,7 +1325,7 @@ pevně se nohama opřít.
 
 <section>
 
-                                             Tu oběma rukama chopil
+             Tu oběma rukama chopil
 
 </section>
 
@@ -1355,7 +1355,7 @@ celý skácev se v proud.
 
 <section>
 
-                                             Syn Péleův, vyraziv z víru,
+             Syn Péleův, vyraziv z víru,
 
 </section>
 
@@ -1403,7 +1403,7 @@ Tomu jsa roven pádil, a krunýř na jeho prsou
 
 <section>
 
-                                                  Rek stranou proudu se vyhnuv,
+             Rek stranou proudu se vyhnuv,
 
 </section>
 
@@ -1485,7 +1485,7 @@ shora mu do plecí bily. —
 
 <section>
 
-                                                On do výše nohama skákal,
+             On do výše nohama skákal,
 
 </section>
 
@@ -1637,7 +1637,7 @@ nesevřel — ačli kdo prchne.
 
 <section>
 
-                                                   Pak Hektoru odejma život,
+             Pak Hektoru odejma život,
 
 </section>
 
@@ -1671,7 +1671,7 @@ jinochů padlých v bitvě.
 
 <section>
 
-                                              On naproti proudu se řítil,
+             On naproti proudu se řítil,
 
 </section>
 
@@ -1703,7 +1703,7 @@ zvedaje peřeje své.
 
 <section>
 
-                                     Pak zavolal na Simoenta:
+             Pak zavolal na Simoenta:
 
 </section>
 
@@ -1787,7 +1787,7 @@ bez počtu!
 
 <section>
 
-                    Achajský lid pak nebude moci už kosti
+             Achajský lid pak nebude moci už kosti
 
 </section>
 
@@ -1881,7 +1881,7 @@ záhubný požár šíře.
 
 <section>
 
-                                      Ty po celém pobřeží Xanthu
+             Ty po celém pobřeží Xanthu
 
 </section>
 
@@ -1999,7 +1999,7 @@ Ukonči svár!
 
 <section>
 
-                        Ať třebas i hned syn Péleův slavný
+             Ať třebas i hned syn Péleův slavný
 
 </section>
 
@@ -2041,7 +2041,7 @@ Nechtěl prouditi dále a zastavil — týralť ho plamen
 
 chytrého Héfaista silou.
 
-                                        Tu Xanthos bohyni Héru
+                    Tu Xanthos bohyni Héru
 
 </section>
 
@@ -2061,7 +2061,7 @@ nad jiné zvlášť?
 
 <section>
 
-                              Vždyť nejsem ti já tak mnoho přec vinen,
+             Vždyť nejsem ti já tak mnoho přec vinen,
 
 </section>
 
@@ -2085,7 +2085,7 @@ avšak přestaň i on! —
 
 <section>
 
-                                        Já ještě ti přisáhnu k tomu,
+             Já ještě ti přisáhnu k tomu,
 
 </section>
 
@@ -2165,7 +2165,7 @@ nebeská báň pak zahřměla kol.
 
 <section>
 
-                                                            Zeus uslyšel lomoz,
+             Zeus uslyšel lomoz,
 
 </section>
 
@@ -2753,7 +2753,7 @@ u kolen milého otce si plačíc usedla dcera:
 
 na těle božský se háv jí tetelil.
 
-                                                   Dcerušku otec
+                         Dcerušku otec
 
 </section>
 
@@ -2823,7 +2823,7 @@ k Diu však, vladaři mraků, si usedli.
 
 <section>
 
-                                                                    Achilleus zatím
+                   Achilleus zatím
 
 </section>
 
@@ -2899,7 +2899,7 @@ Achilleus nablízku žene! — — —
 
 <section>
 
-                                               Teď nastane záhuba, myslím!
+                    Teď nastane záhuba, myslím!
 
 </section>
 
@@ -2927,7 +2927,7 @@ Strach mám, že zhoubný ten muž nám skočí do hradeb města.“
 
 Ochrany vhodný vchod jim poskytl.
 
-                                                                    Apollón zatím
+             Apollón zatím
 
 </section>
 
@@ -3255,7 +3255,7 @@ před ním nablízku stanul.
 
 <section>
 
-                                                 Rek vyraziv, honil ho během. —
+             Rek vyraziv, honil ho během. —
 
 Zatím co pšeničným polem jej Achilleus hrdinský stíhal,
 

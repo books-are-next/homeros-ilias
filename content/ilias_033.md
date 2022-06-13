@@ -23,7 +23,7 @@ po kmenech, každý k svým.
 
 <section>
 
-                                                      Tam jednak se hleděli jídlem,
+             Tam jednak se hleděli jídlem,
 
 </section>
 
@@ -35,7 +35,7 @@ jednak i sladkým spánkem zas zotavit.
 
 <section>
 
-                                                                          Achilleus zatím
+               Achilleus zatím
 
 </section>
 
@@ -123,7 +123,7 @@ k zemi jej obrátiv tváří, vždy nechával…
 
 <section>
 
-                                                                            Foibos však bránil
+             Foibos však bránil
 
 </section>
 
@@ -207,7 +207,7 @@ tehdáž Apollón Foibos se ozval ve sboru bohů:
 
 <section>
 
-                                                                                Nikdy-li Hektór
+                 Nikdy-li Hektór
 
 </section>
 
@@ -1099,7 +1099,7 @@ s tebou soucitu míti ni ostychu!! — —
 
 <section>
 
-                                                                       Plačme jen v dáli,
+             Plačme jen v dáli,
 
 </section>
 
@@ -1111,7 +1111,7 @@ sedíce v paláci svém! — —
 
 <section>
 
-                                                  Tak zajisté přemocný osud
+             Tak zajisté přemocný osud
 
 </section>
 
@@ -1135,7 +1135,7 @@ před zrakem krutého muže. — —
 
 <section>
 
-                                                              Ó kéž se mu do středu jater
+             Ó kéž se mu do středu jater
 
 </section>
 
@@ -1209,7 +1209,7 @@ Půjdu! — Ať rozkaz její jest vyplněn!
 
 <section>
 
-                                                                         Pakliže přece
+             Pakliže přece
 
 </section>
 
@@ -1289,7 +1289,7 @@ vykoupit milého syna.
 
 <section>
 
-                                           Pak vyháněl Trójany všecky
+             Pak vyháněl Trójany všecky
 
 </section>
 
@@ -1321,7 +1321,7 @@ Není vám dost, když zoufalstvím _já_ byl zahrnut Diem!? —
 
 <section>
 
-                                                                          Sami to záhy
+             Sami to záhy
 
 </section>
 
@@ -1359,7 +1359,7 @@ ježto byl rozhněván kmet.
 
 <section>
 
-                                                  Pak s výtkou syny své volal:
+             Pak s výtkou syny své volal:
 
 </section>
 
@@ -1925,7 +1925,7 @@ stanul tu úžasu pln. — — —
 
 <section>
 
-                                                        Vtom rychlý přistoupil posel,
+             Vtom rychlý přistoupil posel,
 
 </section>
 
@@ -2197,7 +2197,7 @@ nezměněn, jak byl dřív.
 
 <section>
 
-                                             Ač dvanáctá minula zora,
+             Ač dvanáctá minula zora,
 
 </section>
 
@@ -2499,7 +2499,7 @@ držel koně a mezky.
 
 <section>
 
-                                       Sám kráčel do stanu přímo,
+             Sám kráčel do stanu přímo,
 
 </section>
 
@@ -2669,7 +2669,7 @@ Vzpomeň si na otce svého! — — —
 
 <section>
 
-                                                   Však já jsem bídnější mnohem,
+             Však já jsem bídnější mnohem,
 
 </section>
 
@@ -3603,7 +3603,7 @@ Když však přišli až k místu, kdež brod jest v půvabných
 
 <section>
 
-                                                                                                           proudech
+                         proudech
 
 </section>
 
@@ -3775,7 +3775,7 @@ jemuž dali jsme život — my ubozí! — —
 
 <section>
 
-                                                                         Beztoho ani
+             Beztoho ani
 
 </section>
 
@@ -4051,7 +4051,7 @@ Potom už Priamos kmet dal rozkaz ve středu lidu:
 
 <section>
 
-                                                               Nemějte strachu,
+                         Nemějte strachu,
 
 </section>
 
@@ -4163,7 +4163,7 @@ Rychle pak zřídili rov. —
 
 <section>
 
-                                               Kol dokola hlídači byli,
+             Kol dokola hlídači byli,
 
 </section>
 

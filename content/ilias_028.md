@@ -383,7 +383,7 @@ Bozi tak bohům se vstříc tam stavěli.
 
 <section>
 
-                                                                             Achilleus zatím
+             Achilleus zatím
 
 </section>
 
@@ -527,7 +527,7 @@ dokavad lidským tělem by neprojel.
 
 <section>
 
-                                                                    Kdyby však volně
+                         Kdyby však volně
 
 </section>
 
@@ -829,7 +829,7 @@ vojínů kvapících v boj.
 
 <section>
 
-                                           Dvé reků se nad jiné předních
+             Dvé reků se nad jiné předních
 
 </section>
 
@@ -979,7 +979,7 @@ kdybys mě života zbavil?
 
 <section>
 
-                                                Však stěží to vykonáš asi!
+             Však stěží to vykonáš asi!
 
 Však jsem tebe, jak mním, už jednou zapudil kopím. —
 
@@ -1323,7 +1323,7 @@ dokavad nesvedeš boj svým oštěpem.
 
 <section>
 
-                                                                        Nuže teď rychle
+             Nuže teď rychle
 
 </section>
 
@@ -1461,7 +1461,7 @@ ztrnul, když utkvěl mu hrot hned za zády.
 
 <section>
 
-                                                                                Achilleus zatím
+               Achilleus zatím
 
 </section>
 
@@ -1479,7 +1479,7 @@ strašlivým hlasem křiče.
 
 <section>
 
-                                               Vtom pozdvihl Aineiás rukou
+             Vtom pozdvihl Aineiás rukou
 
 </section>
 
@@ -1921,7 +1921,7 @@ nebude radosti mít, jak nablízko dřevce mi přijde.“
 
 Takto jim dodával síly.
 
-                                      Též na Tróy slavený Hektór
+             Též na Tróy slavený Hektór
 
 </section>
 
@@ -2039,7 +2039,7 @@ padl, až duněla zem.
 
 <section>
 
-                                       Rek zajásal, Achilleus slavný:
+             Rek zajásal, Achilleus slavný:
 
 </section>
 
@@ -2087,7 +2087,7 @@ v prvém pořadí seče.
 
 <section>
 
-                                         Pak hrdinu Démoleonta,
+             Pak hrdinu Démoleonta,
 
 </section>
 
@@ -2163,7 +2163,7 @@ s kopím, na Priamovce.
 
 <section>
 
-                                             Jej nechtíval do boje pustit
+                        Jej nechtíval do boje pustit
 
 </section>
 
@@ -2265,7 +2265,7 @@ od něhož milený druh byl zavražděn!
 
 <section>
 
-                                                                       Dlouho teď asi
+             Dlouho teď asi
 
 </section>
 
@@ -2349,7 +2349,7 @@ sletěl a k nohám se zpět zas položil.
 
 <section>
 
-                                                                     Achilleus potom
+             Achilleus potom
 
 </section>
 
@@ -2367,7 +2367,7 @@ strašlivým hlasem křiče. —
 
 <section>
 
-                                                    Jej zachránil Apollón Foibos,
+             Jej zachránil Apollón Foibos,
 
 </section>
 
@@ -2431,7 +2431,7 @@ rovnou se k nohám mu skácel.
 
 <section>
 
-                                                           Rek Dryopa ležeti nechav,
+             Rek Dryopa ležeti nechav,
 
 </section>
 
@@ -2501,7 +2501,7 @@ nýbrž nadmíru drsný. —
 
 <section>
 
-                                              On kolena obejmout hleděl,
+             On kolena obejmout hleděl,
 
 </section>
 
@@ -2531,7 +2531,7 @@ když ho již opouštěl život.
 
 <section>
 
-                                                  Rek přiskočiv, Múlia ranil
+             Rek přiskočiv, Múlia ranil
 
 </section>
 
@@ -2587,7 +2587,7 @@ smrti se dívaje vstříc.
 
 <section>
 
-                                         Rek mečem ho do týla seknuv,
+             Rek mečem ho do týla seknuv,
 
 </section>
 
@@ -2625,7 +2625,7 @@ rázem skácel se s vozu.
 
 <section>
 
-                                             Pak soudruha Aréithoa,
+             Pak soudruha Aréithoa,
 
 </section>
 

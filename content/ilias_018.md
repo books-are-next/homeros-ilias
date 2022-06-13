@@ -259,7 +259,7 @@ po nich šli za krátký čas pak jezdcové.
 
 <section>
 
-                                                                         Zhoubný však zmatek
+             Zhoubný však zmatek
 
 </section>
 
@@ -475,7 +475,7 @@ pobídnuv po řadách všech své soudruhy.
 
 <section>
 
-                                                                               Vládyka mužstva
+                Vládyka mužstva
 
 </section>
 
@@ -551,7 +551,7 @@ Antifos, přeslavný rek, pak válčíval.
 
 <section>
 
-                                                                     Achilleus kdysi
+                         Achilleus kdysi
 
 </section>
 
@@ -699,7 +699,7 @@ protože z rukou jejich se vysmekly otěže lesklé,
 
 <section>
 
-                                                   Jim naproti, podoben lvovi,
+             Jim naproti, podoben lvovi,
 
 </section>
 
@@ -711,7 +711,7 @@ vyrazil Átreův syn.
 
 <section>
 
-                                     Jej prosili s povozu snažně:
+             Jej prosili s povozu snažně:
 
 </section>
 
@@ -1697,7 +1697,7 @@ tak svým útokem zpětným je hubili.
 
 <section>
 
-                                                                     Rád si tu zase
+             Rád si tu zase
 
 </section>
 
@@ -1945,7 +1945,7 @@ v chodidlo pravé nohy.
 
 <section>
 
-                                             Skrz naskrz projela střela,
+             Skrz naskrz projela střela,
 
 </section>
 
@@ -1957,7 +1957,7 @@ v chodidlo pravé nohy.
 
 <section>
 
-                                         Tu Paris se od srdce zasmáv,
+                         Tu Paris se od srdce zasmáv,
 
 </section>
 
@@ -2317,7 +2317,7 @@ Padl, až duněla zem.
 
 <section>
 
-                                       Rek zajásal, Odysseus slavný:
+             Rek zajásal, Odysseus slavný:
 
 </section>
 
@@ -2481,7 +2481,7 @@ v hlubinách stinného háje.
 
 <section>
 
-                                                   Tu lva tam přivede božstvo,
+             Tu lva tam přivede božstvo,
 
 </section>
 
@@ -2569,7 +2569,7 @@ takto se řítil i Aiás, jak Trójany rovinou honil,
 
 vraždě jim koně i muže.
 
-                                         A dosud nezvěděl o tom
+             A dosud nezvěděl o tom
 
 </section>
 
@@ -2787,7 +2787,7 @@ jiné s loukotí kol.
 
 <section>
 
-                                  Rek toužil do davu mužů
+             Rek toužil do davu mužů
 
 </section>
 
@@ -2865,7 +2865,7 @@ celou probdíce noc.
 
 <section>
 
-                                      Lev po mase velice dychtě,
+             Lev po mase velice dychtě,
 
 </section>
 
@@ -3449,7 +3449,7 @@ neboť s tětivy šíp jej postřelil.
 
 <section>
 
-                                                          Achilleus s námi,
+             Achilleus s námi,
 
 </section>
 
@@ -3475,7 +3475,7 @@ až budem sami tu padat druh za druhem?
 
 <section>
 
-                                                                                Nemámť už sílu,
+             Nemámť už sílu,
 
 </section>
 
@@ -3513,7 +3513,7 @@ když jsem chtěl odehnat skot.
 
 <section>
 
-                                                          Ten háje si dobytka svého,
+               Ten háje si dobytka svého,
 
 </section>
 
@@ -3677,7 +3677,7 @@ vzdávali oběti bohům.
 
 <section>
 
-                                           Dne třetího Epejci všichni
+             Dne třetího Epejci všichni
 
 </section>
 
@@ -3735,7 +3735,7 @@ naopak, radosti pln šel do boje.
 
 <section>
 
-                                                            Mne ale Néleus
+               Mne ale Néleus
 
 </section>
 
@@ -3819,7 +3819,7 @@ podél říčních proudů.
 
 <section>
 
-                                          Však Epejci zmužilí v boji
+                      Však Epejci zmužilí v boji
 
 </section>
 
@@ -3883,7 +3883,7 @@ Raněn skácel se v prach.
 
 <section>
 
-                                                Než já vtom vyskočiv na vůz,
+             Než já vtom vyskočiv na vůz,
 
 </section>
 
@@ -3983,7 +3983,7 @@ Takový kdys jsem býval, ač byl-li jsem.
 
 <section>
 
-                                                                                 Pro sebe chce jen
+             Pro sebe chce jen
 
 </section>
 
@@ -4145,7 +4145,7 @@ Takto ti radil ten kmet — ty’s zapomněl!
 
 <section>
 
-                                                                                   Ale i nyní
+             Ale i nyní
 
 </section>
 

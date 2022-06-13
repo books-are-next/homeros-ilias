@@ -77,7 +77,7 @@ Truchliví sedali k schůzi.
 
 <section>
 
-                                                       Tu vládyka achajských vojů,
+             Tu vládyka achajských vojů,
 
 </section>
 
@@ -361,7 +361,7 @@ Mládeži taký úkol bych navrhl.
 
 <section>
 
-                                                                 Ty ale potom,
+             Ty ale potom,
 
 </section>
 
@@ -585,7 +585,7 @@ poskvrnil’s čest — vždyť jeho máš dar —
 
 <section>
 
-                                                                             Však ještě i nyní
+             Však ještě i nyní
 
 </section>
 
@@ -617,7 +617,7 @@ Chybil jsem já — toť vyznávám sám!
 
 <section>
 
-                                                                      Jest nad četné vojsko
+                         Jest nad četné vojsko
 
 </section>
 
@@ -1157,7 +1157,7 @@ pokývl Foiníku Aiás.
 
 <section>
 
-                                        To postřehl Odysseus slavný,
+             To postřehl Odysseus slavný,
 
 </section>
 
@@ -1243,7 +1243,7 @@ blýskaje.
 
 <section>
 
-                 Hrdina Hektór pak velkou se nadýmá silou,
+             Hrdina Hektór pak velkou se nadýmá silou,
 
 </section>
 
@@ -1319,7 +1319,7 @@ až se už neštěstí stane, je odčinit. —
 
 <section>
 
-                                                                     Proto radš dříve
+             Proto radš dříve
 
 </section>
 
@@ -1371,7 +1371,7 @@ Takto ti radil ten kmet — Ty’s zapomněl!
 
 <section>
 
-                                                                              Ale i nyní
+             Ale i nyní
 
 </section>
 
@@ -1797,7 +1797,7 @@ odňal a má mou milenou choť!! — —
 
 <section>
 
-                                                                      Nechť s touto se v lásce
+             Nechť s touto se v lásce
 
 </section>
 
@@ -1815,7 +1815,7 @@ kochá jen dál!! — —
 
 <section>
 
-                                      Nač zápasy vést má s národem trójským
+             Nač zápasy vést má s národem trójským
 
 </section>
 
@@ -1905,7 +1905,7 @@ zadržet! — — —
 
 <section>
 
-                                 Pokavad já jsem vespolek s Achajci válčil,
+             Pokavad já jsem vespolek s Achajci válčil,
 
 </section>
 
@@ -2017,7 +2017,7 @@ vladař v přemoci své, ač sám mi ho za podíl přiřkl,
 
 <section>
 
-                                    Jen všecko mu vyřiďte, jak vám to velím!
+             Jen všecko mu vyřiďte, jak vám to velím!
 
 </section>
 
@@ -2151,7 +2151,7 @@ přec bych ni tak jí nechtěl! —
 
 <section>
 
-                                                        Ať jiného z Achaiů zvolí,
+             Ať jiného z Achaiů zvolí,
 
 </section>
 
@@ -2479,7 +2479,7 @@ prchal jsem otcovu lání.
 
 <section>
 
-                                               Ten velmi se rozlítil na mne,
+             Ten velmi se rozlítil na mne,
 
 </section>
 
@@ -3157,7 +3157,7 @@ od prudkých do hradeb ran. —
 
 <section>
 
-                                                           Jej prosili královi rádci
+                  Jej prosili královi rádci
 
 </section>
 
@@ -3415,7 +3415,7 @@ na návrat ze stanu zpět již myslili.
 
 <section>
 
-                                                                  Podobný bohům
+             Podobný bohům
 
 </section>
 
@@ -3457,7 +3457,7 @@ kteří nyní as sedí a čekají. — —
 
 <section>
 
-                                                            Achilleus tuhle
+             Achilleus tuhle
 
 </section>
 
@@ -3511,7 +3511,7 @@ jakmile náhradu vzal.
 
 <section>
 
-                                          Jen tobě jest od bohů dána
+                         Jen tobě jest od bohů dána
 
 </section>
 
@@ -3535,7 +3535,7 @@ k nim též jiného mnoho. —
 
 <section>
 
-                                                    Již smířlivé smýšlení pojmi,
+             Již smířlivé smýšlení pojmi,
 
 </section>
 

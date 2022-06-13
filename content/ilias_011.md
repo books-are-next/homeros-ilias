@@ -903,7 +903,7 @@ krásnou Helenu z Argu. —
 
 <section>
 
-                                                   Ty v Tróji tu ležeti budeš,
+             Ty v Tróji tu ležeti budeš,
 
 </section>
 
@@ -1711,7 +1711,7 @@ Trójanů, statných jezdcův, i Achaiů.
 
 <section>
 
-                                                                    Čekaliť stojmo,
+                   Čekaliť stojmo,
 
 </section>
 
@@ -2319,7 +2319,7 @@ oděných v bronzovou zbroj:
 
 <section>
 
-                                                       Již uprostřed vypouklé štíty
+             Již uprostřed vypouklé štíty
 
 </section>
 
@@ -2483,7 +2483,7 @@ Proto též Simoeisiem byl nazýván.
 
 <section>
 
-                                                                   Nemohl milým
+                         Nemohl milým
 
 </section>
 
@@ -2557,7 +2557,7 @@ Aiás, potomek Diův.
 
 <section>
 
-                                        Vtom mrštil zástupem po něm
+             Vtom mrštil zástupem po něm
 
 </section>
 
@@ -2651,7 +2651,7 @@ pronikl daleko vpřed.
 
 <section>
 
-                                           Bůh Foibos nadmíru vzplanul,
+             Bůh Foibos nadmíru vzplanul,
 
 </section>
 
@@ -2717,7 +2717,7 @@ do jeho pravého lýtka.
 
 <section>
 
-                                            Jím mrštil vévoda Thréků,
+                       Jím mrštil vévoda Thréků,
 
 </section>
 
@@ -2753,7 +2753,7 @@ pouštěje naposled ducha.
 
 <section>
 
-                                                 Tu Peiroos, který ho ranil,
+             Tu Peiroos, který ho ranil,
 
 </section>
 

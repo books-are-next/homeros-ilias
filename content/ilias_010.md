@@ -1787,7 +1787,7 @@ o jeho silný štít.
 
 <section>
 
-                                Pak druhý se rozehnal kopím
+              Pak druhý se rozehnal kopím
 
 </section>
 
@@ -1965,7 +1965,7 @@ Sama však Helenu krásnou šla zavolat.
 
 <section>
 
-                                                                           Našla ji právě
+             Našla ji právě
 
 </section>
 
@@ -2219,7 +2219,7 @@ opět naproti tobě šel do boje?!
 
 <section>
 
-                                                  Já ti však radím:
+             Já ti však radím:
 
 </section>
 
