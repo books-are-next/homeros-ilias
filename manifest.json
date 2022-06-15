@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-ilias-f34bee0",
-  "revision": "f34bee0",
+  "identifier": "homeros-ilias-943a450",
+  "revision": "943a450",
   "readingOrder": [
     "promo.html",
     "ilias_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157299872
+    "date": "Wed Jun 15 2022 05:51:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272262596
   },
   "documents": [
     {
@@ -705,9 +705,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 99,
-      "chars": 650,
-      "ideas": 14,
+      "words": 118,
+      "chars": 785,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "ilias_036.html",
@@ -725,9 +725,9 @@
   ],
   "totals": {
     "all": {
-      "words": 162765,
-      "chars": 924270,
-      "ideas": 16301
+      "words": 162784,
+      "chars": 924405,
+      "ideas": 16302
     },
     "chapters": {
       "words": 162663,
