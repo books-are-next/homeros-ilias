@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-14T10:17:58.477Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - ilias_005.html
