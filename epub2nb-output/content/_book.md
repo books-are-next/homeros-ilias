@@ -47,7 +47,7 @@ readingOrder:
   - ilias_034.html
   - ilias_035.html
   - ilias_036.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

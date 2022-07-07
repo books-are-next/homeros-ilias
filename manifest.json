@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-ilias-4edb560",
-  "revision": "4edb560",
+  "identifier": "homeros-ilias-067df39",
+  "revision": "067df39",
   "readingOrder": [
     "promo.html",
     "ilias_005.html",
@@ -44,11 +44,11 @@
     "ilias_034.html",
     "ilias_035.html",
     "ilias_036.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:06:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978764100
+    "date": "Thu Jul 07 2022 08:26:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182393838
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ACHILLEUS V BOJI",
+          "name": "ACHILLEUS V BOJI",
           "id": null,
           "children": []
         }
@@ -692,7 +692,7 @@
       "role": "chapter",
       "order": 32,
       "prev": "ilias_035.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -705,11 +705,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 118,
-      "chars": 785,
+      "chars": 784,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ilias_036.html",
       "next": null,
@@ -727,7 +727,7 @@
   "totals": {
     "all": {
       "words": 162785,
-      "chars": 924411,
+      "chars": 924410,
       "ideas": 16303
     },
     "chapters": {
