@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-ilias-4a23012",
-  "revision": "4a23012",
+  "identifier": "homeros-ilias-292e48e",
+  "revision": "292e48e",
   "readingOrder": [
     "promo.html",
     "ilias_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188065438
+    "date": "Thu Jul 21 2022 14:41:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414474995
   },
   "documents": [
     {
@@ -707,7 +707,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 118,
-      "chars": 784,
+      "chars": 785,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -727,7 +727,7 @@
   "totals": {
     "all": {
       "words": 162785,
-      "chars": 924410,
+      "chars": 924411,
       "ideas": 16303
     },
     "chapters": {
