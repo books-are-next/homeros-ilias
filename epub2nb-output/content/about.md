@@ -25,7 +25,7 @@ Snad se i zde setkáváme se známou básníkovou zálibou v překvapování. Vy
 [^12]: Proč vlastně Achilleus běžel k Tróji, není dost pochopitelno. Vždyť ve zp. XXII. slyšel od samého Apollóna, že Trójané už prchli do města – rozumělo se samo sebou, že Hektór také prchl do města, třebaže to Apollón výslovně neřekl. Achilleus se nemohl nadít, že Hektór ho čeká před branou.  
 [^13]: Nebylo možná do tohoto slovníčku pojmout všecka vlastní jména osob a věcí, je jich příliš mnoho. Zvláště zeměpisná jména až na skrovné výjimky jsou vynechána, poněvadž by výklad o nich ničím nepřispěl k porozumění místům. Jen nepatrnou část všech vl. jmen jsem do slovníčku zařadil. Jsou to předně jména, na která jsou v básni činěny narážky, jimž by čtenář bez výkladu neporozuměl, např. Marpéssa, Týdeus a jiná, a pak ovšem jména osob, jež mají v básni důležitý úkol a bylo potřeba je stručně charakterisovat, a konečně jména, jež bylo nutno vysvětlit, aby mohlo být místům porozuměno. Do slovníčku pojato jen to, co bylo k výkladu míst nezbytně nutné.  
 [^14]: Viz krásnou a vyčerpávající rozpravu Achilleus od Vojtěcha Hanačíka ve výr. zprávě vyššího gymn. v Žitné ulici v Praze r. 1889/90. Některé myšlenky jsem z ní ovšem přijal.  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
