@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-ilias-b643830",
-  "revision": "b643830",
+  "identifier": "homeros-ilias-21eb5d7",
+  "revision": "21eb5d7",
   "readingOrder": [
     "promo.html",
     "ilias_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:55:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639735495
+    "date": "Tue Oct 04 2022 16:43:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901785619
   },
   "documents": [
     {
@@ -646,9 +646,9 @@
     {
       "title": "PŘEHLED ZPĚVŮ ÍLIADY",
       "file": "ilias_034.html",
-      "words": 6052,
-      "chars": 36691,
-      "ideas": 73,
+      "words": 6398,
+      "chars": 38791,
+      "ideas": 75,
       "role": "chapter",
       "order": 30,
       "prev": "ilias_033.html",
@@ -706,9 +706,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 109,
+      "words": 107,
       "chars": 742,
-      "ideas": 14,
+      "ideas": 12,
       "role": "about",
       "order": null,
       "prev": "ilias_036.html",
@@ -726,14 +726,14 @@
   ],
   "totals": {
     "all": {
-      "words": 171711,
-      "chars": 977021,
+      "words": 172055,
+      "chars": 979121,
       "ideas": 16391
     },
     "chapters": {
-      "words": 171598,
-      "chars": 976258,
-      "ideas": 16373
+      "words": 171944,
+      "chars": 978358,
+      "ideas": 16375
     }
   }
 }
