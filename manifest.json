@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "homeros-ilias-f961a89",
-  "revision": "f961a89",
+  "identifier": "homeros-ilias-f6723ca",
+  "revision": "f6723ca",
   "readingOrder": [
     "promo.html",
     "ilias_005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:02:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151334912
+    "date": "Mon Oct 10 2022 15:54:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417258179
   },
   "documents": [
     {
